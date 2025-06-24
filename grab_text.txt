@@ -1,5 +1,4 @@
 ### Help, tutorials & documentation
-URL: https://www.notion.com/help
 Features
 Notion AI
 Docs
@@ -32,7 +31,6 @@ API
 Templates
 Security
 Consultants
-Help, tutorials & documentation
 Learn how to scale workflows, connect your tools and become a Notion expert — all in one place.
 Reference
 Guides
@@ -165,8 +163,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Understanding Notion’s pricing changes
-URL: https://www.notion.com/help/2025-pricing-changes
+Explore more→
++ --- 
+### Understanding Notion’s pricing changes
 Features
 Notion AI
 Docs
@@ -203,7 +202,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Understanding Notion’s pricing changes
 Learn more about changes to Notion’s plans and pricing 👛
 At a glance
 What's changing?
@@ -380,8 +378,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Account settings & preferences
-URL: https://www.notion.com/help/account-settings
+Explore more→
++ --- 
+### Account settings & preferences
 Features
 Notion AI
 Docs
@@ -418,7 +417,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Account settings & preferences
 There are tons of account settings and preferences to adjust in Notion ⚙️
 Change your profile photo
 Change your name
@@ -543,23 +541,6 @@ Open the link in your browser.
 Click•••at the top right of the page. Scroll to the bottom of the menu that appears and clickOpen in Mac app.
 Click•••at the top right of the page. Scroll to the bottom of the menu that appears and clickOpen in Mac app.
 Change your language
-Notion is currently available in the following languages, and we're working on adding even more!
-English
-Korean
-Japanese
-French
-German
-Spanish (Spain)
-Spanish (Latin America)
-Portuguese (Brazil)
-Chinese (simplified)
-Chinese (traditional)
-Dutch (beta)
-Norwegian (beta)
-Swedish (beta)
-Danish (beta)
-Finnish (beta)
-
 To change your display language:
 Go toSettingsin your sidebar →Preferences.
 Go toSettingsin your sidebar →Preferences.
@@ -679,8 +660,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Add & manage integrations
-URL: https://www.notion.com/help/add-and-manage-connections-with-the-api
+Explore more→
++ --- 
+### Add & manage integrations
 Features
 Notion AI
 Docs
@@ -717,7 +699,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Add & manage integrations
 You can connect other software to Notion, automate actions within your workspace, and access connections built by our partners 🤖
 Add connections in your workspace
 Add connections to pages
@@ -839,8 +820,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage members & guests
-URL: https://www.notion.com/help/add-members-admins-guests-and-groups
+Explore more→
++ --- 
+### Manage members & guests
 Features
 Notion AI
 Docs
@@ -877,7 +859,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Manage members & guests
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 It's easy to work with others in Notion. Add members to collaborate with you in your workspace, or invite guests to view, comment on, or edit specific pages 💌
 Add a member
@@ -1095,8 +1076,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Add security & compliance integrations
-URL: https://www.notion.com/help/add-security-and-compliance-integrations
+Explore more→
++ --- 
+### Add security & compliance integrations
 Features
 Notion AI
 Docs
@@ -1133,7 +1115,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Add security & compliance integrations
 Learn how to add security and compliance integrations to your workspace 🔐
 Prerequisites for adding security and compliance integrations
 DLP partner integrations
@@ -1607,8 +1588,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Content search
-URL: https://www.notion.com/help/admin-content-search
+Explore more→
++ --- 
+### Content search
 Features
 Notion AI
 Docs
@@ -1645,7 +1627,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Content search
 With content search, Enterprise workspace owners can now get a bird’s eye view of all workspace content and help resolve page access issues more easily 🔎
 Access content search
 Updating page permissions
@@ -1717,8 +1698,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### AI Meeting Notes (beta)
-URL: https://www.notion.com/help/ai-meeting-notes
+Explore more→
++ --- 
+### AI Meeting Notes (beta)
 Features
 Notion AI
 Docs
@@ -1755,7 +1737,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-AI Meeting Notes (beta)
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Take detailed notes without needing to type alongside your meetings or video calls.
 Start AI Meeting Notes
@@ -1922,8 +1903,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion IP addresses & domains
-URL: https://www.notion.com/help/allowlist-ip
+Explore more→
++ --- 
+### Notion IP addresses & domains
 Features
 Notion AI
 Docs
@@ -1960,7 +1942,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Notion IP addresses & domains
 Contact your security team to allowlist these Notion IP addresses or domains 🌐
 Notion IP addresses and domains
 Notion provides a fixed range of outgoing IP addresses, as well as domains that you can allowlist, helping you increase the security of your network.
@@ -2024,8 +2005,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Import from Asana
-URL: https://www.notion.com/help/asana
+Explore more→
++ --- 
+### Import from Asana
 Features
 Notion AI
 Docs
@@ -2062,7 +2044,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Import from Asana
 Easily import all of your Asana projects and tasks directly into Notion 📥
 Import from Asana into Notion
 How importing from Asana works
@@ -2238,8 +2219,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Audit log
-URL: https://www.notion.com/help/audit-log
+Explore more→
++ --- 
+### Audit log
 Features
 Notion AI
 Docs
@@ -2276,7 +2258,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Audit log
 Audit logs give Enterprise organization owners access to detailed information about security and safety-related activity. This can help identify potential security issues, investigate suspicious behavior, and troubleshoot access 🔦
 Access your audit log
 Audit log events
@@ -2649,8 +2630,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI for databases
-URL: https://www.notion.com/help/autofill
+Explore more→
++ --- 
+### Notion AI for databases
 Features
 Notion AI
 Docs
@@ -2687,7 +2669,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI for databases
 Learn how to use Notion AI to create databases and make them even more valuable 🪄
 Create a database with Notion AI
 From a page
@@ -2822,8 +2803,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Scheduling & availability
-URL: https://www.notion.com/help/availability-blocking-and-time-zones
+Explore more→
++ --- 
+### Scheduling & availability
 Features
 Notion AI
 Docs
@@ -2860,7 +2842,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Scheduling & availability
 Notion Calendar allows you to easily set up time with others 🤝🏼
 Create scheduling links
 Copy and share scheduling link
@@ -2973,8 +2954,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Back up your data
-URL: https://www.notion.com/help/back-up-your-data
+Explore more→
++ --- 
+### Back up your data
 Features
 Notion AI
 Docs
@@ -3011,7 +2993,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Back up your data
 Your data is safe in Notion. Everything is stored in the cloud, and we keep per-minute backups of your page content on our server. That said, your data belongs to you, so we've made it easy to create your own backups and keep your information portable 💿
 Export your entire workspace
 Restore from trash
@@ -3127,8 +3108,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Billing
-URL: https://www.notion.com/help/billing
+Explore more→
++ --- 
+### Billing
 Features
 Notion AI
 Docs
@@ -3165,7 +3147,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Billing
 Learn how you're billed for Notion, and how you can change your billing interval 🧾
 You’re billed upfront
 You’re billed per member, per workspace
@@ -3344,8 +3325,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Blocking
-URL: https://www.notion.com/help/blocking
+Explore more→
++ --- 
+### Blocking
 Features
 Notion AI
 Docs
@@ -3382,7 +3364,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Blocking
 With Notion Calendar, you can easily let people see when you are or aren't available 🚫
 Block an event or an entire calendar
 Remove blocking
@@ -3454,8 +3435,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Board view
-URL: https://www.notion.com/help/boards
+Explore more→
++ --- 
+### Board view
 Features
 Notion AI
 Docs
@@ -3492,7 +3474,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Board view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Boards are helpful for showing items in a database as they move through stages of a process, or grouped by property 📋
 Create a board
@@ -3706,8 +3687,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create & navigate teamspaces
-URL: https://www.notion.com/help/browse-join-and-create-teamspaces
+Explore more→
++ --- 
+### Create & navigate teamspaces
 Features
 Notion AI
 Docs
@@ -3744,7 +3726,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Create & navigate teamspaces
 Teamspaces help keep your content organized into specific areas. Keep your sidebar tidy by joining just the ones you need to access! Here's how 📚
 Browse teamspaces
 Join or leave teamspaces
@@ -3826,8 +3807,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Buttons
-URL: https://www.notion.com/help/buttons
+Explore more→
++ --- 
+### Buttons
 Features
 Notion AI
 Docs
@@ -3864,7 +3846,6 @@ Help Center
 Reference
 Automations
 ← Automations
-Buttons
 In Notion, you can easily automate simple and repetitive tasks to save time 🍣
 Who can use buttons?
 Create a button
@@ -4065,8 +4046,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Calendar view
-URL: https://www.notion.com/help/calendars
+Explore more→
++ --- 
+### Calendar view
 Features
 Notion AI
 Docs
@@ -4103,7 +4085,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Calendar view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Calendars let you visualize how database items connect to certain dates. Use one when you want a bird's-eye view for important launch dates, multi-day events, or even projects spanning multiple months 🗓️
 Create a calendar
@@ -4240,8 +4221,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### I can't access my own page
-URL: https://www.notion.com/help/cant-access-my-own-page
+Explore more→
++ --- 
+### I can't access my own page
 Features
 Notion AI
 Docs
@@ -4278,7 +4260,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-I can't access my own page
 
 Check ourstatus pageandXfor live updates on any known issues.
 If you can’t access your own Notion page and you’re prompted to request access to it:
@@ -4332,8 +4313,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### I can’t access Notion
-URL: https://www.notion.com/help/cant-access-notion
+Explore more→
++ --- 
+### I can’t access Notion
 Features
 Notion AI
 Docs
@@ -4370,7 +4352,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-I can’t access Notion
 If Notion is down or you’re unable to access Notion:
 Check ourstatus pageandXfor live updates on any known issues.
 Check ourstatus pageandXfor live updates on any known issues.
@@ -4426,8 +4407,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### I can't log in
-URL: https://www.notion.com/help/cant-log-in
+Explore more→
++ --- 
+### I can't log in
 Features
 Notion AI
 Docs
@@ -4464,7 +4446,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-I can't log in
 If you forgot your password
 If you lost access to your email
 
@@ -4541,8 +4522,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### I can’t upload or view a file
-URL: https://www.notion.com/help/cant-upload-or-view-a-file
+Explore more→
++ --- 
+### I can’t upload or view a file
 Features
 Notion AI
 Docs
@@ -4579,7 +4561,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-I can’t upload or view a file
 When this error may occur
 What you can try to fix the error
 File types supported in Notion
@@ -4687,8 +4668,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 12. Settings
-URL: https://www.notion.com/help/category/account-settings-and-privacy
+Explore more→
++ --- 
+### 12. Settings
 Features
 Notion AI
 Docs
@@ -4724,9 +4706,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-12. Settings
 From language options to notification settings, there are lots of adjustments you can make to Notion so that it suits your personal workflow.
-Articles
 Account settings & preferences
 There are tons of account settings and preferences to adjust in Notion ⚙️
 Notification settings
@@ -4790,8 +4770,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 7. Automations
-URL: https://www.notion.com/help/category/automations
+Explore more→
++ --- 
+### 7. Automations
 Features
 Notion AI
 Docs
@@ -4827,9 +4808,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-7. Automations
 Learn about how Notion can help you automate your workflows.
-Articles
 Buttons
 In Notion, you can easily automate simple and repetitive tasks to save time 🍣
 Database buttons
@@ -4879,8 +4858,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 4. Databases
-URL: https://www.notion.com/help/category/databases
+Explore more→
++ --- 
+### 4. Databases
 Features
 Notion AI
 Docs
@@ -4916,9 +4896,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-4. Databases
 Databases are collections of Notion pages that help you organize information in a variety of ways. With multiple database views to choose from, you control how to display and search your content.
-Articles
 Intro to databases
 Databases in Notion are collections of pages. Here, we'll introduce you to the general structure of a database, walk you through the different menus and options, and deep dive into how to open and edit pages within a database. 🗃
 Views, filters, sorts & groups
@@ -5002,8 +4980,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 11. Workspace administration
-URL: https://www.notion.com/help/category/enterprise-admin
+Explore more→
++ --- 
+### 11. Workspace administration
 Features
 Notion AI
 Docs
@@ -5039,9 +5018,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-11. Workspace administration
 Notion grows with your team – and some teams need a little bit more power in their feature set! See how you can use Business or Enterprise plan features to better manage your team’s Notion workspace.
-Articles
 SAML SSO
 Notion provides Single Sign-On (SSO) functionality for Business and Enterprise customers to access the app through a single authentication source. This allows IT administrators to better manage team access and keeps information more secure 🔐
 Set up Identity Provider (IdP) for SAML SSO
@@ -5122,8 +5099,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 8. Formulas
-URL: https://www.notion.com/help/category/formulas
+Explore more→
++ --- 
+### 8. Formulas
 Features
 Notion AI
 Docs
@@ -5159,9 +5137,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-8. Formulas
 Learn how to use formulas in databases and automations.
-Articles
 Intro to formulas
 In a Notion database, you can add a formula property that lets you run all kinds of calculations and functions based on other properties. You can use formulas to manipulate existing data and arrive at many other helpful values 🔮
 Formula syntax & functions
@@ -5209,8 +5185,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 6. Data & integrations
-URL: https://www.notion.com/help/category/import-export-and-integrate
+Explore more→
++ --- 
+### 6. Data & integrations
 Features
 Notion AI
 Docs
@@ -5246,9 +5223,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-6. Data & integrations
 Notion makes it easy to connect and move content to and from other tools you use. Integrate Notion with other apps natively, or build your own integrations with our API!
-Articles
 Import data into Notion
 Like most people, you probably have data, documents, and notes scattered across many files and apps. You can centralize your information in one place by moving it all into Notion 🚚
 Export your content
@@ -5279,6 +5254,8 @@ Integrate Slack
 Bring Notion and Slack together so your team can work better from anywhere 💬
 Integrate Jira
 Connect Jira with Notion for a seamless experience that keeps you and your team up to date 🔗
+Common Jira Sync issues
+Here’s a list of common issues you might run into with Jira Sync and why they might occur ‼️
 Questions?
 Email us
 [email protected]
@@ -5320,8 +5297,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 2. Workspace & sidebar
-URL: https://www.notion.com/help/category/meet-your-workspace
+Explore more→
++ --- 
+### 2. Workspace & sidebar
 Features
 Notion AI
 Docs
@@ -5357,9 +5335,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-2. Workspace & sidebar
 Your Notion workspace is the home for all your content. You can work in your workspace alone or share your workspace with collaborators — it's up to you! Here, we'll teach you how to create, join, and use workspaces.
-Articles
 Intro to workspaces
 Everything you do in Notion takes place in a workspace. It's your virtual home to organize information and create exactly the way you want — as just one person, together as a team, or across a whole company. Expand, edit, and mold it to fit your needs 🏠
 Navigate with the sidebar
@@ -5415,8 +5391,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 1. Getting started
-URL: https://www.notion.com/help/category/new-to-notion
+Explore more→
++ --- 
+### 1. Getting started
 Features
 Notion AI
 Docs
@@ -5452,9 +5429,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-1. Getting started
 Welcome to the connected workspace where better, faster work happens. Let’s cover all the things you need to know to begin exploring Notion.
-Articles
 Start here
 Curious about what Notion is? We'll show you right here, and in the articles to come. Let's go! 📍
 What is a block?
@@ -5514,8 +5489,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 15. Notion AI
-URL: https://www.notion.com/help/category/notion-ai
+Explore more→
++ --- 
+### 15. Notion AI
 Features
 Notion AI
 Docs
@@ -5551,9 +5527,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-15. Notion AI
 Search, chat, and write with Notion AI from anywhere in your workspace.
-Articles
 What is Notion AI?
 Notion AI is integrated into your Notion workspace so that you can unlock knowledge, answers, and ideas with just a click 🤖
 Notion AI for databases
@@ -5620,8 +5594,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 9. Notion apps
-URL: https://www.notion.com/help/category/notion-apps
+Explore more→
++ --- 
+### 9. Notion apps
 Features
 Notion AI
 Docs
@@ -5657,9 +5632,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-9. Notion apps
 You can use Notion on desktop, web, or mobile. Read on to explore the differences and get the most out of Notion on each platform.
-Articles
 Notion for desktop
 You can use Notion on your Mac or PC as a downloadable desktop application. Here's what you need to know 🖥️
 Notion for web
@@ -5715,8 +5688,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 16. Notion Calendar
-URL: https://www.notion.com/help/category/notion-calendar
+Explore more→
++ --- 
+### 16. Notion Calendar
 Features
 Notion AI
 Docs
@@ -5752,9 +5726,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-16. Notion Calendar
 Notion Calendar is a free-to-use tool where you can view and manage your personal and work schedules in one place. Learn how to bring all of your commitments together, and even use Notion Calendar with Notion.
-Articles
 Create a Notion Calendar account
 Download Notion Calendar and sign in with Notion to move effortlessly between work and meetings ⏰
 Manage your calendars & events
@@ -5822,8 +5794,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 18. Notion Mail
-URL: https://www.notion.com/help/category/notion-mail
+Explore more→
++ --- 
+### 18. Notion Mail
 Features
 Notion AI
 Docs
@@ -5859,8 +5832,6 @@ Consultants
 Help Center
 Reference
 ← Reference
-18. Notion Mail
-Articles
 Create a Notion Mail account
 Notion Mail helps you manage your emails your way ✉️
 Navigate your inbox
@@ -5920,8 +5891,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 17. Notion Sites
-URL: https://www.notion.com/help/category/notion-sites
+Explore more→
++ --- 
+### 17. Notion Sites
 Features
 Notion AI
 Docs
@@ -5957,9 +5929,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-17. Notion Sites
 Launch a beautiful website in just minutes with Notion Sites. You can customize your Site's look and feel, connect custom domains, and more.
-Articles
 Publish a Notion Site
 Any page you build in Notion can be turned into a beautiful Notion Site with just a click. Publish a blog, resume or portfolio, job listing, landing page — the possibilities are as wide as the web itself 🪄
 Edit & customize your Notion Sites
@@ -6011,8 +5981,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 10. Plans, billing & payment
-URL: https://www.notion.com/help/category/plans-billing-and-payment
+Explore more→
++ --- 
+### 10. Plans, billing & payment
 Features
 Notion AI
 Docs
@@ -6048,9 +6019,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-10. Plans, billing & payment
 Notion offers a number of plans tailored to a wide variety of needs. Learn how to change your plan and how Notion billing works.
-Articles
 Change your plan
 We offer four different pricing plans for every type of user and team. Here, we'll walk through each one and what it means to upgrade or downgrade your workspace 💸
 Billing
@@ -6120,8 +6089,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 14. Security & privacy
-URL: https://www.notion.com/help/category/security-and-privacy
+Explore more→
++ --- 
+### 14. Security & privacy
 Features
 Notion AI
 Docs
@@ -6157,9 +6127,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-14. Security & privacy
 Your security and privacy are crucial. Read on to learn more about how we keep you and your data safe.
-Articles
 Security practices
 We know you've entrusted us with valuable data, and we take its security very seriously. We've provided a deep dive into our security practices 🔒
 Privacy practices
@@ -6215,8 +6183,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 5. Sharing & collaboration
-URL: https://www.notion.com/help/category/sharing-and-collaboration
+Explore more→
++ --- 
+### 5. Sharing & collaboration
 Features
 Notion AI
 Docs
@@ -6252,9 +6221,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-5. Sharing & collaboration
 You can share your Notion pages with clients, teammates, collaborators, or the internet! Here, we'll cover how to share content and work with others in Notion.
-Articles
 Sharing & permissions
 Notion is built for collaboration, so there are many ways to share your work with other people. Our permission levels ensure that your collaborators access your content exactly the way you want them to 📣
 Manage members & guests
@@ -6318,8 +6285,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 18. Marketplace
-URL: https://www.notion.com/help/category/template-gallery
+Explore more→
++ --- 
+### 18. Marketplace
 Features
 Notion AI
 Docs
@@ -6355,9 +6323,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-18. Marketplace
 Notion’s template gallery makes it easy for users everywhere to build anything. Here, you can learn how to use or create a template.
-Articles
 Finding templates on Marketplace
 Whatever you’re looking to accomplish, there’s a template for it in Marketplace. Here’s how you can explore Marketplace, add and manage templates, and use them in your Notion workspace 👛
 Selling on Marketplace
@@ -6407,8 +6373,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 13. Troubleshooting
-URL: https://www.notion.com/help/category/troubleshooting
+Explore more→
++ --- 
+### 13. Troubleshooting
 Features
 Notion AI
 Docs
@@ -6444,9 +6411,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-13. Troubleshooting
 Here's how you can troubleshoot common issues in Notion.
-Articles
 Reset Notion
 I can't log in
 I can’t access Notion
@@ -6495,8 +6460,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 3. Pages & blocks
-URL: https://www.notion.com/help/category/write-edit-and-customize
+Explore more→
++ --- 
+### 3. Pages & blocks
 Features
 Notion AI
 Docs
@@ -6532,9 +6498,7 @@ Consultants
 Help Center
 Reference
 ← Reference
-3. Pages & blocks
 At its simplest, Notion can be used as a straightforward text editor — but you can spruce up your Notion pages with all kinds of blocks that are flexible and customizable.
-Articles
 Intro to writing & editing
 Notion is first and foremost a writing tool. It works as simply as any word processor, only you can add many different types of content to a page, and move it around and modify it in new ways ✏️
 Format your page
@@ -6602,8 +6566,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Chart view
-URL: https://www.notion.com/help/charts
+Explore more→
++ --- 
+### Chart view
 Features
 Notion AI
 Docs
@@ -6640,7 +6605,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Chart view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Charts help visualize the vast amount of information in your database. Customize your charts so you can see your data in the way that’s most helpful. You can even put charts from multiple databases into a Notion page to create a powerful dashboard 📊
 Create a chart view of a database
@@ -6846,8 +6810,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Code blocks
-URL: https://www.notion.com/help/code-blocks
+Explore more→
++ --- 
+### Code blocks
 Features
 Notion AI
 Docs
@@ -6884,7 +6849,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Code blocks
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Code blocks are useful to demonstrate programming concepts, share code with other developers, or maintain your own library of code snippets. They also make it a breeze to copy any amount of code to your clipboard to use elsewhere 🕹️
 Add a code block
@@ -6957,8 +6921,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Collaborate with people
-URL: https://www.notion.com/help/collaborate-with-people
+Explore more→
++ --- 
+### Collaborate with people
 Features
 Notion AI
 Docs
@@ -6995,7 +6960,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Collaborate with people
 Notion has several features designed to improve and increase the velocity of communication with your team — whether you're all editing the same page or working across time zones 🤝
 Work together in real-time
 Start a conversation
@@ -7082,8 +7046,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Collaborate in a workspace
-URL: https://www.notion.com/help/collaborate-within-a-workspace
+Explore more→
++ --- 
+### Collaborate in a workspace
 Features
 Notion AI
 Docs
@@ -7120,7 +7085,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Collaborate in a workspace
 There's no limit on the number of people who can view and edit the same page or database at the same time. Your team can collaborate on shared content no matter where they are, what time it is, or what device they're using 💼
 Real-time collaboration
 Lock pages and databases
@@ -7218,8 +7182,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Format your page
-URL: https://www.notion.com/help/columns-headings-and-dividers
+Explore more→
++ --- 
+### Format your page
 Features
 Notion AI
 Docs
@@ -7256,7 +7221,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Format your page
 Notion is designed to get thoughts out of your head and onto the page. Once they're there, you can rearrange, organize, and structure them to think and write more clearly 📐
 Columns
 Remove columns
@@ -7415,8 +7379,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Comments & mentions
-URL: https://www.notion.com/help/comments-mentions-and-reminders
+Explore more→
++ --- 
+### Comments & mentions
 Features
 Notion AI
 Docs
@@ -7453,7 +7418,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Comments & mentions
 Use comments and mentions to work with others asynchronously 💬
 Comments
 Top-level page discussions
@@ -7616,8 +7580,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Common formula errors
-URL: https://www.notion.com/help/common-formula-errors
+Explore more→
++ --- 
+### Common formula errors
 Features
 Notion AI
 Docs
@@ -7654,7 +7619,6 @@ Help Center
 Reference
 Formulas
 ← Formulas
-Common formula errors
 Learn about the common errors you might run into with formulas in Notion, and how you can troubleshoot them 🔨
 Permissions
 Wrong return type
@@ -7743,8 +7707,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI complimentary responses
-URL: https://www.notion.com/help/complimentary-ai-responses
+Explore more→
++ --- 
+### Notion AI complimentary responses
 Features
 Notion AI
 Docs
@@ -7781,7 +7746,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI complimentary responses
 Everyone can try Notion AI features for free 🆓
 What counts as an AI response?
 Everyone can try Notion AI for free.Once you've used all your complimentary AI responses, you will see a message that an upgrade to the Business or Enterprise Plan is necessary to continue using AI features. You’ll need to be a workspace owner, and on desktop, toupgrade your plan.
@@ -7825,8 +7789,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Compose an email
-URL: https://www.notion.com/help/compose-an-email
+Explore more→
++ --- 
+### Compose an email
 Features
 Notion AI
 Docs
@@ -7863,7 +7828,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Compose an email
 Write beautiful emails using the same Notion blocks that you know and love ✍🏼
 Slash menu and commands
 Snippets
@@ -7975,8 +7939,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Connect a custom domain with Notion Sites
-URL: https://www.notion.com/help/connect-a-custom-domain-with-notion-sites
+Explore more→
++ --- 
+### Connect a custom domain with Notion Sites
 Features
 Notion AI
 Docs
@@ -8013,7 +7978,6 @@ Help Center
 Reference
 Notion Sites
 ← Notion Sites
-Connect a custom domain with Notion Sites
 If you already have a custom domain, you can use it with Notion Sites. Learn how to do this, both in Notion and in your DNS provider 🔧
 Custom domain add-on pricing and billing
 Connect a custom domain
@@ -8206,8 +8170,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Connected properties
-URL: https://www.notion.com/help/connected-properties
+Explore more→
++ --- 
+### Connected properties
 Features
 Notion AI
 Docs
@@ -8244,7 +8209,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Connected properties
 Integrate your favorite tools directly into your Notion databases with Connected properties. Link files from Google Drive, designs from Figma, tickets from Zendesk, and pull requests from GitHub — all without leaving your Notion workspace ↔️
 Connect Google Drive files
 Connect Figma files
@@ -8337,8 +8301,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a database
-URL: https://www.notion.com/help/create-a-database
+Explore more→
++ --- 
+### Create a database
 Features
 Notion AI
 Docs
@@ -8375,7 +8340,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Create a database
 Now we'll create a database and use it to show off essential database actions and features. You'll get to play with database properties, views, filters, and sorts - let's get into it 📈
 Create a new database
 Create a database with Notion AI
@@ -8517,8 +8481,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a Notion Calendar account
-URL: https://www.notion.com/help/create-a-notion-calendar-account
+Explore more→
++ --- 
+### Create a Notion Calendar account
 Features
 Notion AI
 Docs
@@ -8555,7 +8520,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Create a Notion Calendar account
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Download Notion Calendar and sign in with Notion to move effortlessly between work and meetings ⏰
 Download Notion Calendar
@@ -8668,8 +8632,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a Notion Mail account
-URL: https://www.notion.com/help/create-a-notion-mail-account
+Explore more→
++ --- 
+### Create a Notion Mail account
 Features
 Notion AI
 Docs
@@ -8706,7 +8671,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Create a Notion Mail account
 Notion Mail helps you manage your emails your way ✉️
 Download Notion Mail
 Sign up for Notion Mail with Google
@@ -8840,8 +8804,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a subpage
-URL: https://www.notion.com/help/create-a-subpage
+Explore more→
++ --- 
+### Create a subpage
 Features
 Notion AI
 Docs
@@ -8878,7 +8843,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Create a subpage
 There are no folders in Notion. Instead, you can organize pages inside pages... inside pages. Here, we'll show you how to create a page within another page, which we call a subpage 📑
 Create a subpage
 Navigate with your sidebar and breadcrumbs
@@ -8939,8 +8903,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create & manage groups
-URL: https://www.notion.com/help/create-and-manage-groups
+Explore more→
++ --- 
+### Create & manage groups
 Features
 Notion AI
 Docs
@@ -8977,7 +8942,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Create & manage groups
 Groups in Notion allow you to bring people together and collaborate more easily 💼
 Create and edit groups
 Share a page with groups
@@ -9080,8 +9044,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create & manage workspaces
-URL: https://www.notion.com/help/create-delete-and-switch-workspaces
+Explore more→
++ --- 
+### Create & manage workspaces
 Features
 Notion AI
 Docs
@@ -9118,7 +9083,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Create & manage workspaces
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 When you're brand new to Notion, it's best to keep it simple and start with just one workspace. But as you start using Notion for more things, and with more groups of people, you can keep different kinds of content separate by using multiple workspaces 🏘
 Create a new workspace
@@ -9269,8 +9233,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion API integrations
-URL: https://www.notion.com/help/create-integrations-with-the-notion-api
+Explore more→
++ --- 
+### Notion API integrations
 Features
 Notion AI
 Docs
@@ -9307,7 +9272,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Notion API integrations
 With Notion's API, you'll be able to create custom internal integrations. Some of our partners may also require an internal integration token in order to link their platform to your Notion workspace - below, we'll walk you through how to set this up 🏗️
 Create an internal integration
 Create a public integration
@@ -9419,8 +9383,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Links & backlinks
-URL: https://www.notion.com/help/create-links-and-backlinks
+Explore more→
++ --- 
+### Links & backlinks
 Features
 Notion AI
 Docs
@@ -9457,7 +9422,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Links & backlinks
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion makes it easy to link to all kinds of content in and outside of your workspace 🔗
 Link to a Notion page
@@ -9592,8 +9556,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a page
-URL: https://www.notion.com/help/create-your-first-page
+Explore more→
++ --- 
+### Create a page
 Features
 Notion AI
 Docs
@@ -9630,7 +9595,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Create a page
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Every page you create in Notion is a fresh canvas where you can add whatever content you want. Follow these steps to create your first one 📄
 Create a page
@@ -9692,8 +9656,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Custom data retention settings
-URL: https://www.notion.com/help/custom-data-retention-settings
+Explore more→
++ --- 
+### Custom data retention settings
 Features
 Notion AI
 Docs
@@ -9730,7 +9695,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Custom data retention settings
 Enterprise workspace owners have control over when users’ pages are deleted from Trash, and how long they can be retained for afterwards 🗑️
 Page deletion
 Page retention
@@ -9827,8 +9791,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Style & customize your page
-URL: https://www.notion.com/help/customize-and-style-your-content
+Explore more→
++ --- 
+### Style & customize your page
 Features
 Notion AI
 Docs
@@ -9865,7 +9830,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Style & customize your page
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 You can make Notion look and feel any way you want — like your brand, your team, your style. We've built in features so you can customize any page or workspace. No matter what, Notion makes your design look great 🎨
 Text styling
@@ -10074,8 +10038,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Database settings
-URL: https://www.notion.com/help/customize-your-database
+Explore more→
++ --- 
+### Database settings
 Features
 Notion AI
 Docs
@@ -10112,7 +10077,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Database settings
 Tailor your database to your needs with lots of customization options to choose from ✨
 
 Note:You can only adjust database settings if you haveCan editaccess or higher to the database.
@@ -10176,8 +10140,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Data access consent
-URL: https://www.notion.com/help/data-access-consent
+Explore more→
++ --- 
+### Data access consent
 Features
 Notion AI
 Docs
@@ -10214,7 +10179,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Data access consent
 Notion employees will only ever access your data for the purposes of troubleshooting problems or recovering content on your behalf, after hearing from you via email or in-app support chat with a request for help. Here's how you can grant access consent🚪
 Data access consent on desktop
 Allow data access
@@ -10280,8 +10244,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Data accessible by your workspace owner
-URL: https://www.notion.com/help/data-accessible-by-your-workspace-owner
+Explore more→
++ --- 
+### Data accessible by your workspace owner
 Features
 Notion AI
 Docs
@@ -10318,7 +10283,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Data accessible by your workspace owner
 Learn more about what data your workspace owner can access ☎️
 If you are accessing any Notion workspace using an email address or account assigned to you by your employer or other organization (for example, you use your work email to access a workspace administered by your employer), it is important to note that the workspace owner could have access to the data you store in that Notion workspace, including any private pages in that workspace. Additionally, the workspace owner can turn off Notion services or restrict your ability to move data to or from the organizational workspace. Please read ourTerms of Servicefor more information.
 If you access Notion with an email address or account assigned to you by your employer or other organization, your agreement or legal relationship with that workspace owner might affect:
@@ -10368,8 +10332,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Data sources & linked databases
-URL: https://www.notion.com/help/data-sources-and-linked-databases
+Explore more→
++ --- 
+### Data sources & linked databases
 Features
 Notion AI
 Docs
@@ -10406,7 +10371,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Data sources & linked databases
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Need to reference database content somewhere else in your workspace? Linked databases let you show, filter, and sort the same source data across multiple locations ⛓
 Choosing a data source
@@ -10474,8 +10438,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Database automations
-URL: https://www.notion.com/help/database-automations
+Explore more→
++ --- 
+### Database automations
 Features
 Notion AI
 Docs
@@ -10512,7 +10477,6 @@ Help Center
 Reference
 Automations
 ← Automations
-Database automations
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Improve your efficiency by automating the most tedious parts of your work 🔁
 Who can use database automations?
@@ -10805,8 +10769,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Database buttons
-URL: https://www.notion.com/help/database-buttons
+Explore more→
++ --- 
+### Database buttons
 Features
 Notion AI
 Docs
@@ -10843,7 +10808,6 @@ Help Center
 Reference
 Automations
 ← Automations
-Database buttons
 Database buttons take actions on your behalf with one click 🔘
 Who can use database buttons?
 Create a database button
@@ -11032,8 +10996,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Database properties
-URL: https://www.notion.com/help/database-properties
+Explore more→
++ --- 
+### Database properties
 Features
 Notion AI
 Docs
@@ -11070,7 +11035,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Database properties
 Database properties add all kinds of context to your database items, like due dates, task owners, relevant URLs, last edited timestamps, and more. Use these properties to filter, sort, and search your data 🧩
 Types of database properties
 Create a property
@@ -11261,8 +11225,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Database templates
-URL: https://www.notion.com/help/database-templates
+Explore more→
++ --- 
+### Database templates
 Features
 Notion AI
 Docs
@@ -11299,7 +11264,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Database templates
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Most databases contain the same types of pages created over and over again. Think of weekly meeting notes, bug reports, or design specs. To make this easy, database templates let you define and replicate certain page structures with one click 🖨
 Create a database template
@@ -11395,8 +11359,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Delete your account
-URL: https://www.notion.com/help/delete-your-account
+Explore more→
++ --- 
+### Delete your account
 Features
 Notion AI
 Docs
@@ -11433,7 +11398,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Delete your account
 We're sad to see you go, but no hard feelings! Here's how to delete your Notion account 🗑
 What happens when you delete your account
 Delete your account
@@ -11510,8 +11474,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Deploy Notion for macOS
-URL: https://www.notion.com/help/deploy-notion-for-macos
+Explore more→
++ --- 
+### Deploy Notion for macOS
 Features
 Notion AI
 Docs
@@ -11548,7 +11513,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Deploy Notion for macOS
 Learn how to install and update Notion for your organization 🚀
 Installing Notion on shared machines
 Distribute Notion
@@ -11624,8 +11588,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Deploy Notion for Windows
-URL: https://www.notion.com/help/deploy-notion-for-windows
+Explore more→
++ --- 
+### Deploy Notion for Windows
 Features
 Notion AI
 Docs
@@ -11662,7 +11627,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Deploy Notion for Windows
 Learn how to install and update Notion for your organization 🚀
 Distribute Notion
 Silent installation and uninstallation
@@ -11724,8 +11688,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Domain management
-URL: https://www.notion.com/help/domain-management
+Explore more→
++ --- 
+### Domain management
 Features
 Notion AI
 Docs
@@ -11762,7 +11727,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Domain management
 This article will cover how to verify ownership of a domain and which advanced workspace security settings it will unlock for Enterprise customers 🧷
 Verify a domain for your organization
 Verify a domain for an integration
@@ -11999,8 +11963,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Delete & restore content
-URL: https://www.notion.com/help/duplicate-delete-and-restore-content
+Explore more→
++ --- 
+### Delete & restore content
 Features
 Notion AI
 Docs
@@ -12037,7 +12002,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Delete & restore content
 Any content you add to Notion can be duplicated or deleted with a couple clicks, whether that's an image, embed, page, or database. And if you ever get rid of content and need to get that work back — we got you covered on that too 🖇
 Delete blocks
 Click ⋮⋮
@@ -12186,8 +12150,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Duplicate public pages
-URL: https://www.notion.com/help/duplicate-public-pages
+Explore more→
++ --- 
+### Duplicate public pages
 Features
 Notion AI
 Docs
@@ -12224,7 +12189,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Duplicate public pages
 You can duplicate public Notion pages to add them to your own workspace. From there, you can customize them however you want 👯
 Duplicate a page
 Prevent duplication
@@ -12295,8 +12259,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Edit & customize your Notion Sites
-URL: https://www.notion.com/help/edit-and-customize-your-notion-sites
+Explore more→
++ --- 
+### Edit & customize your Notion Sites
 Features
 Notion AI
 Docs
@@ -12333,7 +12298,6 @@ Help Center
 Reference
 Notion Sites
 ← Notion Sites
-Edit & customize your Notion Sites
 If you’re on a paid plan, you can customize the look and feel of your Notion Sites, integrate with Google Analytics, and more 🎨
 Customize share previews
 Set a theme
@@ -12456,8 +12420,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Embeds, bookmarks & link mentions
-URL: https://www.notion.com/help/embed-and-connect-other-apps
+Explore more→
++ --- 
+### Embeds, bookmarks & link mentions
 Features
 Notion AI
 Docs
@@ -12494,7 +12459,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Embeds, bookmarks & link mentions
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 You can embed virtually any online content within Notion pages — from video and audio players to Tweets, Loom videos, Invision mockups, and entire Miro boards. Enrich your Notion pages with other apps, PDFs, forms, and interactive maps 🦾
 Insert an embed
@@ -12733,8 +12697,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage your Enterprise workspace
-URL: https://www.notion.com/help/enterprise-admins
+Explore more→
++ --- 
+### Manage your Enterprise workspace
 Features
 Notion AI
 Docs
@@ -12771,7 +12736,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Manage your Enterprise workspace
 This one's for administrators of workspaces on the Enterprise Plan! Find out more about your capabilities in Notion 👤
 Organization owner
 Workspace owner
@@ -12825,8 +12789,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Enterprise connection settings
-URL: https://www.notion.com/help/enterprise-connection-settings
+Explore more→
++ --- 
+### Enterprise connection settings
 Features
 Notion AI
 Docs
@@ -12863,7 +12828,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Enterprise connection settings
 Enterprise connection settings empower workspace owners with granular control. Manage member access, approve connections, and streamline your Notion workspace's integration ecosystem — all from one centralized dashboard.
 Restrict members from installing connections
 Auto-approve connections built by Notion
@@ -12951,8 +12915,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Export your content
-URL: https://www.notion.com/help/export-your-content
+Explore more→
++ --- 
+### Export your content
 Features
 Notion AI
 Docs
@@ -12989,7 +12954,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Export your content
 Need to share your content in PDF, CSV, or HTML format? We got you covered! You can export a Notion page, database, or entire workspace at any time 📤
 Export as PDF
 On desktop
@@ -13202,8 +13166,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Feed view
-URL: https://www.notion.com/help/feeds
+Explore more→
++ --- 
+### Feed view
 Features
 Notion AI
 Docs
@@ -13240,7 +13205,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Feed view
 Display database pages in stacked-card format making it easy to browse and engage with team content 🔍
 Create feed view
 Display & hide properties
@@ -13308,8 +13272,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Finding templates on Marketplace
-URL: https://www.notion.com/help/finding-templates-on-marketplace
+Explore more→
++ --- 
+### Finding templates on Marketplace
 Features
 Notion AI
 Docs
@@ -13346,7 +13311,6 @@ Help Center
 Reference
 Marketplace
 ← Marketplace
-Finding templates on Marketplace
 Whatever you’re looking to accomplish, there’s a template for it in Marketplace. Here’s how you can explore Marketplace, add and manage templates, and use them in your Notion workspace 👛
 Find templates
 Add a template
@@ -13496,8 +13460,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Forms
-URL: https://www.notion.com/help/forms
+Explore more→
++ --- 
+### Forms
 Features
 Notion AI
 Docs
@@ -13534,7 +13499,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Forms
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Learn how to create, share, and gather information using forms 🖋️
 Create a new form
@@ -13738,8 +13702,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Formula syntax & functions
-URL: https://www.notion.com/help/formula-syntax
+Explore more→
++ --- 
+### Formula syntax & functions
 Features
 Notion AI
 Docs
@@ -13776,7 +13741,6 @@ Help Center
 Reference
 Formulas
 ← Formulas
-Formula syntax & functions
 Notion formulas can operate on various properties and functions. Here, you'll find a list of them ➗
 Properties
 Built-ins
@@ -14147,8 +14111,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to formulas
-URL: https://www.notion.com/help/formulas
+Explore more→
++ --- 
+### Intro to formulas
 Features
 Notion AI
 Docs
@@ -14185,7 +14150,6 @@ Help Center
 Reference
 Formulas
 ← Formulas
-Intro to formulas
 In a Notion database, you can add a formula property that lets you run all kinds of calculations and functions based on other properties. You can use formulas to manipulate existing data and arrive at many other helpful values 🔮
 Formula examples
 Example 1: Project management
@@ -14349,8 +14313,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Gallery view
-URL: https://www.notion.com/help/galleries
+Explore more→
++ --- 
+### Gallery view
 Features
 Notion AI
 Docs
@@ -14387,7 +14352,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Gallery view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Gallery view is the best way to display databases with visual components, like mood boards, office directories, virtual recipe boxes, and more 🖼️
 Create a gallery
@@ -14519,8 +14483,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### GDPR at Notion
-URL: https://www.notion.com/help/gdpr-at-notion
+Explore more→
++ --- 
+### GDPR at Notion
 Features
 Notion AI
 Docs
@@ -14557,7 +14522,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-GDPR at Notion
 At Notion, we're committed to the success of our customers and the protection of their data through complying with the General Data Protection Regulation (GDPR) and other privacy-related regulations 🇪🇺
 Data Processing Addendum
 Data portability & management tools
@@ -14618,8 +14582,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Getting featured in Marketplace
-URL: https://www.notion.com/help/getting-featured-in-the-template-gallery
+Explore more→
++ --- 
+### Getting featured in Marketplace
 Features
 Notion AI
 Docs
@@ -14656,7 +14621,6 @@ Help Center
 Reference
 Marketplace
 ← Marketplace
-Getting featured in Marketplace
 We’re constantly on the lookout for truly exceptional creators and templates to highlight to the Notion community. Learn how we choose which templates are featured in Marketplace 🌟
 How we choose submissions for Marketplace
 Featured templates and creators
@@ -14781,8 +14745,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Integrate GitHub
-URL: https://www.notion.com/help/github
+Explore more→
++ --- 
+### Integrate GitHub
 Features
 Notion AI
 Docs
@@ -14819,7 +14784,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Integrate GitHub
 Connect Notion and GitHub so you can keep your workflows in sync 🧮
 Set up GitHub integration
 Create GitHub code previews
@@ -14975,8 +14939,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15010,7 +14975,6 @@ Templates
 Security
 Consultants
 Help Center
-Guides
 Guides
 Is Notion's Business or Enterprise plan right for you?
 Preserve perfect meeting memory with AI Meeting Notes
@@ -15096,8 +15060,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/ai
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15134,7 +15099,6 @@ Help Center
 Guides
 Notion AI
 ← Guides
-Guides
 Notion AI
 Is Notion's Business or Enterprise plan right for you?
 Use AI connectors to access more of your team’s knowledge
@@ -15190,8 +15154,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/automations
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15228,7 +15193,6 @@ Help Center
 Guides
 Automations
 ← Guides
-Guides
 Automations
 Bring your codebase into context with Notion's GitHub integration
 Notify people instantly — with just a click of a button
@@ -15270,8 +15234,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/demo
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15308,7 +15273,6 @@ Help Center
 Guides
 Demo
 ← Guides
-Guides
 Demo
 Using Notion for Product & Engineering OKRs
 Using Notion for marketing campaigns
@@ -15352,8 +15316,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/design
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15390,7 +15355,6 @@ Help Center
 Guides
 Design
 ← Guides
-Guides
 Design
 A project management system for your design team that connects all your work
 Page icons & covers
@@ -15432,8 +15396,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/documentation
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15470,7 +15435,6 @@ Help Center
 Guides
 Documentation
 ← Guides
-Guides
 Documentation
 Preserve perfect meeting memory with AI Meeting Notes
 Verify knowledge your teammates can trust
@@ -15539,8 +15503,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/engineering
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15577,7 +15542,6 @@ Help Center
 Guides
 Engineering
 ← Guides
-Guides
 Engineering
 Bring your codebase into context with Notion's GitHub integration
 Project management that evolves with your team
@@ -15631,8 +15595,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/enterprise
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15669,7 +15634,6 @@ Help Center
 Guides
 Enterprise
 ← Guides
-Guides
 Enterprise
 Is Notion's Business or Enterprise plan right for you?
 Find answers and generate reports with enterprise search
@@ -15731,8 +15695,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/hr-and-people
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15769,7 +15734,6 @@ Help Center
 Guides
 HR & people
 ← Guides
-Guides
 HR & people
 Verify knowledge your teammates can trust
 How to build a wiki for your company
@@ -15820,8 +15784,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/marketing
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15858,7 +15823,6 @@ Help Center
 Guides
 Marketing
 ← Guides
-Guides
 Marketing
 How to build an effective go-to-market (GTM) plan
 How to create a content calendar for your marketing team
@@ -15902,8 +15866,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/notes
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -15940,7 +15905,6 @@ Help Center
 Guides
 Notes
 ← Guides
-Guides
 Notes
 Use Notion AI to write better, more efficient notes and docs
 The best ways to use simple tables in your Notion pages (and when not to)
@@ -15993,8 +15957,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/personal
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16031,7 +15996,6 @@ Help Center
 Guides
 Personal
 ← Guides
-Guides
 Personal
 Unearth fresh insights from your personal knowledge library using Q&A
 The ultimate guide to Notion templates
@@ -16085,8 +16049,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/product
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16123,7 +16088,6 @@ Help Center
 Guides
 Product
 ← Guides
-Guides
 Product
 Your centralized product development hub in Notion
 Timeline view unlocks high-output planning for your team
@@ -16179,8 +16143,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/project-management
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16217,7 +16182,6 @@ Help Center
 Guides
 Project management
 ← Guides
-Guides
 Project management
 Getting started with Notion Calendar
 Project management that evolves with your team
@@ -16311,8 +16275,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/startup
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16349,7 +16314,6 @@ Help Center
 Guides
 Startup
 ← Guides
-Guides
 Startup
 Eliminate email busywork with Notion Mail best practices
 Organize your inbox with Notion AI's auto labeling
@@ -16406,8 +16370,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/template-gallery
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16444,7 +16409,6 @@ Help Center
 Guides
 Template gallery
 ← Guides
-Guides
 Template gallery
 Three key databases for teams, and how to use them
 The ultimate guide to Notion templates
@@ -16484,8 +16448,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Guides
-URL: https://www.notion.com/help/guides/category/wiki
+Explore more→
++ --- 
+### Guides
 Features
 Notion AI
 Docs
@@ -16522,7 +16487,6 @@ Help Center
 Guides
 Wiki
 ← Guides
-Guides
 Wiki
 Verify knowledge your teammates can trust
 Organize, connect, and scale your Notion knowledge management system
@@ -16584,8 +16548,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Find answers and generate reports with enterprise search
-URL: https://www.notion.com/help/guides/find-answers-and-generate-reports-with-enterprise-search
+Explore more→
++ --- 
+### Find answers and generate reports with enterprise search
 Features
 Notion AI
 Docs
@@ -16621,7 +16586,6 @@ Consultants
 Help Center
 Guides
 ← Guides
-Find answers and generate reports with enterprise search
 Finding answers at work should be as simple as using your favorite search engine. With enterprise search, you can quickly find what you need using features like Research mode for in-depth reports and AI connectors that work seamlessly with your current systems.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Find answers instantly in Notion AI
@@ -16702,14 +16666,13 @@ Learnhow to get better answers from Notion AI
 Was this resource helpful?
 Start with a template
 Browse over 10,000 templates in ourtemplate gallery
-Sales CRM
-Studio Ghibli Notion Dashboard
-Professional Portfolio and CV Bundle
-Self Improvement Bundle (15x)
-SaaS Subscriptions Manager
-Flash Cards Template - Study using active recall
-Notion Operating Center (for workers with heavy workload)
-Contingency plan
+Yearly  Life Organizer
+Student Revision Tool
+Wellness Dashboard
+Hanif Putra's Mentorship Tracker
+Copywriting project brief
+Content Scripting for Creators
+Gestor de Projetos +
 Something we didn't cover?
 Visit the help center
 Subscribe on Youtube
@@ -16748,8 +16711,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Is Notion's Business or Enterprise plan right for you?
-URL: https://www.notion.com/help/guides/is-notions-business-or-enterprise-plan-right-for-you
+Explore more→
++ --- 
+### Is Notion's Business or Enterprise plan right for you?
 Features
 Notion AI
 Docs
@@ -16785,7 +16749,6 @@ Consultants
 Help Center
 Guides
 ← Guides
-Is Notion's Business or Enterprise plan right for you?
 Bringing AI into daily workflows is one of the biggest challenges companies face. Our Business and Enterprise plans meet that head-on with powerful AI tools, custom workflows, and rock-solid security— all in one connected workspace. Find the plan that fits your team.
 Get full access to Notion AI
 Find answers fast with enterprise search
@@ -16958,8 +16921,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Preserve perfect meeting memory with AI Meeting Notes
-URL: https://www.notion.com/help/guides/preserve-perfect-meeting-memory-with-ai-meeting-notes
+Explore more→
++ --- 
+### Preserve perfect meeting memory with AI Meeting Notes
 Features
 Notion AI
 Docs
@@ -16995,7 +16959,6 @@ Consultants
 Help Center
 Guides
 ← Guides
-Preserve perfect meeting memory with AI Meeting Notes
 Meet Notion’s AI Meeting Notes, your intelligent meeting assistant. It transcribes your meetings and turns it into organized meeting summaries right in your workspace.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Getting started with AI Meeting Notes
@@ -17072,15 +17035,14 @@ Click to expand
 Was this resource helpful?
 Start with a template
 Browse over 10,000 templates in ourtemplate gallery
-Home Renovation Hub
-The Everything Template - red
-Donation management
-Caregiving Assistant
-Daily Routine Builder & Tracker
-Product Due Diligence
-New Hire Welcome
-THE skincare template
-예금적금계산기
+2e cerveau - Gestion d’infos et ressources
+Content Planner
+The Notion Financer
+student dashboard
+Movies tracker with Notion
+Relations
+Feature Requests by Tally Forms
+College planner
 Something we didn't cover?
 Visit the help center
 Subscribe on Youtube
@@ -17119,8 +17081,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Use AI connectors to access more of your team’s knowledge
-URL: https://www.notion.com/help/guides/use-ai-connectors-to-access-more-of-your-teams-knowledge
+Explore more→
++ --- 
+### Use AI connectors to access more of your team’s knowledge
 Features
 Notion AI
 Docs
@@ -17156,7 +17119,6 @@ Consultants
 Help Center
 Guides
 ← Guides
-Use AI connectors to access more of your team’s knowledge
 AI connectors let you  find and create content using info from third-party apps (like Slack, JIRA and Google Drive) within Notion. Learn how they can boost your organization's efficiency, enhance overall productivity, and even reduce spend on AI tools.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Search across tools with AI connectors
@@ -17276,14 +17238,13 @@ Learn how to build, roll out, and maintain yourAI-powered knowledge hubin Notion
 Was this resource helpful?
 Start with a template
 Browse over 10,000 templates in ourtemplate gallery
-Studio Ghibli Notion Dashboard
-Ultimate 12-Week Swim Training Guide
-Deeds 2.0
-Simple Daily Gratitude Journal
-Art school planner
-Business Finance OS - All-in-one finance tracker for businesses
-Travel Planning Template
-Prioritization to-do list
+Product Marketing Career Framework (Ladder)
+downtown girl aesthetic life planner
+Digital Marketing Audit
+Habit Tracker
+Notion | GTD Dashboard
+Business Concept Breakdown Sheet
+Job Hunter Pro
 Something we didn't cover?
 Visit the help center
 Subscribe on Youtube
@@ -17322,8 +17283,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### HIPAA configuration
-URL: https://www.notion.com/help/hipaa
+Explore more→
++ --- 
+### HIPAA configuration
 Features
 Notion AI
 Docs
@@ -17360,7 +17322,6 @@ Help Center
 Reference
 Settings
 ← Settings
-HIPAA configuration
 Learn about how to make your Notion workspace HIPAA compliant, and how to enable HIPAA compliance 🏥
 Configuring Notion for HIPAA
 Enable HIPAA compliance
@@ -17495,8 +17456,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Home & My tasks
-URL: https://www.notion.com/help/home-and-my-tasks
+Explore more→
++ --- 
+### Home & My tasks
 Features
 Notion AI
 Docs
@@ -17533,7 +17495,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Home & My tasks
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Home gives you quick access to Notion AI, important pages, upcoming events, and your tasks 🏡
 What is Home?
@@ -17736,8 +17697,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How to protect yourself from malvertising
-URL: https://www.notion.com/help/how-to-protect-yourself-from-malvertising
+Explore more→
++ --- 
+### How to protect yourself from malvertising
 Features
 Notion AI
 Docs
@@ -17774,7 +17736,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-How to protect yourself from malvertising
 Malvertising is a cyber threat that puts your data at risk using malicious software. Make sure to download Notion only from trusted sources, and read on to learn how you can stay safe from malvertising 🛡️
 How does malvertising affect you?
 Protect yourself from malvertising
@@ -17831,8 +17792,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Images, files & media
-URL: https://www.notion.com/help/images-files-and-media
+Explore more→
++ --- 
+### Images, files & media
 Features
 Notion AI
 Docs
@@ -17869,7 +17831,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Images, files & media
 Add more color to your Notion page by uploading images, videos, audio, and more 🎞️
 File types supported in Notion
 Media block types
@@ -18131,8 +18092,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Import data into Notion
-URL: https://www.notion.com/help/import-data-into-notion
+Explore more→
++ --- 
+### Import data into Notion
 Features
 Notion AI
 Docs
@@ -18169,7 +18131,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Import data into Notion
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Like most people, you probably have data, documents, and notes scattered across many files and apps. You can centralize your information in one place by moving it all into Notion 🚚
 How to import
@@ -18434,8 +18395,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Import from Confluence
-URL: https://www.notion.com/help/import-from-confluence
+Explore more→
++ --- 
+### Import from Confluence
 Features
 Notion AI
 Docs
@@ -18472,7 +18434,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Import from Confluence
 Import your Confluence data right into Notion 📥
 Import with .zip files
 Export your Confluence space to HTML
@@ -18598,8 +18559,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to databases
-URL: https://www.notion.com/help/intro-to-databases
+Explore more→
++ --- 
+### Intro to databases
 Features
 Notion AI
 Docs
@@ -18636,7 +18598,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Intro to databases
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Databases in Notion are collections of pages. Here, we'll introduce you to the general structure of a database, walk you through the different menus and options, and deep dive into how to open and edit pages within a database. 🗃
 Create a database
@@ -18842,8 +18803,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to teamspaces
-URL: https://www.notion.com/help/intro-to-teamspaces
+Explore more→
++ --- 
+### Intro to teamspaces
 Features
 Notion AI
 Docs
@@ -18880,7 +18842,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Intro to teamspaces
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Teamspaces streamline access to information, creating a dedicated area for every team which can be customized to suit their way of working. This article walks you through the ins & outs of the feature 🐾
 Create a teamspace
@@ -19094,8 +19055,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to workspaces
-URL: https://www.notion.com/help/intro-to-workspaces
+Explore more→
++ --- 
+### Intro to workspaces
 Features
 Notion AI
 Docs
@@ -19132,7 +19094,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Intro to workspaces
 Everything you do in Notion takes place in a workspace. It's your virtual home to organize information and create exactly the way you want — as just one person, together as a team, or across a whole company. Expand, edit, and mold it to fit your needs 🏠
 Workspace basics
 Sidebar
@@ -19345,8 +19306,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Invoices
-URL: https://www.notion.com/help/invoices
+Explore more→
++ --- 
+### Invoices
 Features
 Notion AI
 Docs
@@ -19383,7 +19345,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Invoices
 Learn how to see and understand your invoice, as well as what happens when you have an unpaid invoice 📃
 View your upcoming invoice
 Understanding your invoice
@@ -19466,8 +19427,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Integrate Jira
-URL: https://www.notion.com/help/jira
+Explore more→
++ --- 
+### Integrate Jira
 Features
 Notion AI
 Docs
@@ -19504,7 +19466,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Integrate Jira
 Connect Jira with Notion for a seamless experience that keeps you and your team up to date 🔗
 Jira integration differences
 Update legacy synced databases
@@ -19785,8 +19746,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Keyboard shortcuts
-URL: https://www.notion.com/help/keyboard-shortcuts
+Explore more→
++ --- 
+### Keyboard shortcuts
 Features
 Notion AI
 Docs
@@ -19823,7 +19785,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Keyboard shortcuts
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion is fully equipped with keyboard and Markdown shortcuts so you can do everything you need without ever touching your mouse ⌨️
 Most popular
@@ -20140,8 +20101,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Layouts
-URL: https://www.notion.com/help/layouts
+Explore more→
++ --- 
+### Layouts
 Features
 Notion AI
 Docs
@@ -20178,7 +20140,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Layouts
 Create an organized layout for your tasks, goals, journal, or anything else you might track in a Notion database 🔨
 Build a layout
 Heading and pinned properties
@@ -20341,8 +20302,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Legal holds
-URL: https://www.notion.com/help/legal-holds
+Explore more→
++ --- 
+### Legal holds
 Features
 Notion AI
 Docs
@@ -20379,7 +20341,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Legal holds
 Press pause on critical documents.
 Create legal holds
 Export legal holds
@@ -20493,8 +20454,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Link previews
-URL: https://www.notion.com/help/link-previews
+Explore more→
++ --- 
+### Link previews
 Features
 Notion AI
 Docs
@@ -20531,7 +20493,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Link previews
 See live, synced visualizations of links from popular platforms right in your workspace — no need to switch between apps or lose context 🔗
 Pasting a link as a preview
 Pasting a link as a mention
@@ -20649,8 +20610,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### List view
-URL: https://www.notion.com/help/lists
+Explore more→
++ --- 
+### List view
 Features
 Notion AI
 Docs
@@ -20687,7 +20649,6 @@ Help Center
 Reference
 Databases
 ← Databases
-List view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Lists are simple and minimalist database views. They're ideal for storing notes, articles, and documents that don't need too many properties. Every item in a list is a page that can be opened with one click and store as much content as you need 📜
 Create a list
@@ -20781,8 +20742,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Log in & out
-URL: https://www.notion.com/help/log-in-and-out
+Explore more→
++ --- 
+### Log in & out
 Features
 Notion AI
 Docs
@@ -20819,7 +20781,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Log in & out
 Here are all the ways you can log into Notion. You can also log out remotely 🔐
 Ways to log in
 Manage your email address and password
@@ -20922,8 +20883,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage teamspaces
-URL: https://www.notion.com/help/manage-teamspaces
+Explore more→
++ --- 
+### Manage teamspaces
 Features
 Notion AI
 Docs
@@ -20960,7 +20922,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Manage teamspaces
 Workspace owners can get an overview of all teamspaces in the workspace, modify their settings, and access additional management tools 🪂
 Teamspace settings
 Manage default teamspaces
@@ -21092,8 +21053,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage your calendars & events
-URL: https://www.notion.com/help/manage-your-calendars-and-events
+Explore more→
++ --- 
+### Manage your calendars & events
 Features
 Notion AI
 Docs
@@ -21130,7 +21092,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Manage your calendars & events
 Here’s how to set up your calendar so you can get around the grid quickly and focus on what matters most to you 🏃🏼‍♂️
 Manage your calendars
 Add a calendar
@@ -21318,8 +21279,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage your linked Notion account
-URL: https://www.notion.com/help/manage-your-google-and-notion-calendar-accounts
+Explore more→
++ --- 
+### Manage your linked Notion account
 Features
 Notion AI
 Docs
@@ -21356,7 +21318,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Manage your linked Notion account
 Here’s how to manage your Notion account for use with Notion Calendar 🔃
 Manage your Notion Calendar profile
 Change your linked Notion account
@@ -21403,8 +21364,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Manage your Notion Sites
-URL: https://www.notion.com/help/manage-your-notion-sites
+Explore more→
++ --- 
+### Manage your Notion Sites
 Features
 Notion AI
 Docs
@@ -21441,7 +21403,6 @@ Help Center
 Reference
 Notion Sites
 ← Notion Sites
-Manage your Notion Sites
 It's easy to view and manage all of your Notion Sites in one place 🌐
 Manage your domains
 Create a new notion.site domain
@@ -21584,8 +21545,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Managed users
-URL: https://www.notion.com/help/managed-users-dashboard
+Explore more→
++ --- 
+### Managed users
 Features
 Notion AI
 Docs
@@ -21622,7 +21584,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Managed users
 As an enterprise workspace owner, you have many ways you can manage the users within your domain, including a dashboard where you can get information and make changes 👥
 Managing user accounts
 Managed users dashboard
@@ -21738,8 +21699,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Math equations
-URL: https://www.notion.com/help/math-equations
+Explore more→
++ --- 
+### Math equations
 Features
 Notion AI
 Docs
@@ -21776,7 +21738,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Math equations
 On any Notion page, you can display beautifully formatted, comprehensible mathematical characters, expressions and equations. This comes in handy for note taking, technical documentation, homework, or anywhere you need to use fractions and equations 🧮
 Add a math equation as a block
 Add a math equation inline
@@ -21902,8 +21863,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How adding & removing members impacts billing
-URL: https://www.notion.com/help/members-and-billing
+Explore more→
++ --- 
+### How adding & removing members impacts billing
 Features
 Notion AI
 Docs
@@ -21940,7 +21902,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-How adding & removing members impacts billing
 Notion’s billing model looks at the number of members in your workspace. Learn how adding or removing members can impact your billing 👤
 Members vs. guests
 Adding members to your workspace
@@ -22014,8 +21975,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Mobile widgets
-URL: https://www.notion.com/help/mobile-widgets
+Explore more→
++ --- 
+### Mobile widgets
 Features
 Notion AI
 Docs
@@ -22052,7 +22014,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Mobile widgets
 Quickly access your Notion pages right from your iPhone or Android phone screen! You can add a widget that links to any workspace or page of your choosing, making it easy to access frequently visited pages 📲
 iOS widget
 Android widget
@@ -22140,8 +22101,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Import from Monday.com
-URL: https://www.notion.com/help/monday
+Explore more→
++ --- 
+### Import from Monday.com
 Features
 Notion AI
 Docs
@@ -22178,7 +22140,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Import from Monday.com
 Easily import your data from Monday into Notion 📥
 How Monday.com maps to Notion
 Import duration and size
@@ -22317,8 +22278,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Navigate with the sidebar
-URL: https://www.notion.com/help/navigate-with-the-sidebar
+Explore more→
++ --- 
+### Navigate with the sidebar
 Features
 Notion AI
 Docs
@@ -22355,7 +22317,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Navigate with the sidebar
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion's left-hand sidebar makes it easy to structure all the content in your workspace. Here's everything you need to know on how to organize, rearrange, and find your pages within the sidebar 🧭
 Sidebar basics
@@ -22550,8 +22511,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Navigate your inbox
-URL: https://www.notion.com/help/navigate-your-inbox
+Explore more→
++ --- 
+### Navigate your inbox
 Features
 Notion AI
 Docs
@@ -22588,7 +22550,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Navigate your inbox
 Let’s explore the various parts of your Notion Mail inbox 📥
 Sidebar
 Views
@@ -22694,8 +22655,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Network control
-URL: https://www.notion.com/help/network-control
+Explore more→
++ --- 
+### Network control
 Features
 Notion AI
 Docs
@@ -22732,7 +22694,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Network control
 How it works
 Approve workspaces for your network
 With this feature, Workspace Owners can manage which Notion workspaces are accessible on their corporate network using their proxy or cloud access security broker (CASB) solution.
@@ -22797,8 +22758,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notification settings
-URL: https://www.notion.com/help/notification-settings
+Explore more→
++ --- 
+### Notification settings
 Features
 Notion AI
 Docs
@@ -22835,7 +22797,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Notification settings
 Notion is set up to notify you if you're mentioned in a page or database, for reminders, and when updates have been made to a page you care about. Below, we describe how notifications work, and how you can modify them 🛎
 How notifications work
 Types and timing
@@ -22922,8 +22883,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Academy
-URL: https://www.notion.com/help/notion-academy
+Explore more→
++ --- 
+### Notion Academy
 Features
 Notion AI
 Docs
@@ -22957,7 +22919,6 @@ Templates
 Security
 Consultants
 Help Center
-Notion Academy
 Notion Academy
 Get started with Notion for your role or use-case. Follow curated learning pathways to build custom solutions to every day problems.
 101: Introduction
@@ -23045,8 +23006,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 101: Introduction
-URL: https://www.notion.com/help/notion-academy/course/101-introduction
+Explore more→
++ --- 
+### 101: Introduction
 Features
 Notion AI
 Docs
@@ -23083,7 +23045,6 @@ Help Center
 Notion Academy
 101: Introduction
 ← Notion Academy
-101: Introduction
 Navigate Notion, add blocks, create database views for yourself and small groups of teammates.
 101: Introduction
 What is Notion, plus everything you'll learn in this course.
@@ -23155,8 +23116,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Getting started with Projects
-URL: https://www.notion.com/help/notion-academy/course/getting-started-projects
+Explore more→
++ --- 
+### Getting started with Projects
 Features
 Notion AI
 Docs
@@ -23193,7 +23155,6 @@ Help Center
 Notion Academy
 Getting started with Projects
 ← Notion Academy
-Getting started with Projects
 Set up your Notion project and add tasks. Then, add properties to build custom views, connect GitHub, manage work in sprints, and more.
 Projects: Introduction
 Welcome to our project management course! Learn about Notion Projects, and everything you’ll cover in this course.
@@ -23271,8 +23232,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Getting started with Notion AI
-URL: https://www.notion.com/help/notion-academy/course/getting-started-with-notion-ai
+Explore more→
++ --- 
+### Getting started with Notion AI
 Features
 Notion AI
 Docs
@@ -23309,7 +23271,6 @@ Help Center
 Notion Academy
 Getting started with Notion AI
 ← Notion Academy
-Getting started with Notion AI
 Learn how to use Notion AI to search across apps, write better docs, manage projects, and more.
 Getting to know Notion AI
 Welcome to our course that's all about getting started with Notion AI! In this video, you'll get a glimpse of what's to come in this course. Plus, learn how to access Notion AI, and when to use it for maximum impact.
@@ -23365,8 +23326,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How to build a connected workspace
-URL: https://www.notion.com/help/notion-academy/course/how-to-build-a-connected-workspace
+Explore more→
++ --- 
+### How to build a connected workspace
 Features
 Notion AI
 Docs
@@ -23403,7 +23365,6 @@ Help Center
 Notion Academy
 How to build a connected workspace
 ← Notion Academy
-How to build a connected workspace
 Your AI-enabled workspace becomes more powerful when it’s connected, comprehensive, and up-to-date — create systems to get the most out of your investment.
 How to build a connected workspace
 Welcome to our course on building a connected workspace! Your AI-enabled workspace becomes more powerful when it’s connected, comprehensive, and up-to-date — here’s everything you’ll want to learn to get there.
@@ -23479,8 +23440,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How to build a website in Notion
-URL: https://www.notion.com/help/notion-academy/course/how-to-build-a-website
+Explore more→
++ --- 
+### How to build a website in Notion
 Features
 Notion AI
 Docs
@@ -23517,7 +23479,6 @@ Help Center
 Notion Academy
 How to build a website in Notion
 ← Notion Academy
-How to build a website in Notion
 Any Notion page doubles as a publicly shareable website. Use them for your personal portfolio, startup job board, and much more. Learn how to create, share, and customize a website — including adding your own domain and integrating with google analytics.
 Introduction to Sites
 Notion Sites is the easiest way to share with the world your personal portfolio, recommendations, or your company’s blog, job board, and more, simply by clicking “Publish”.
@@ -23573,8 +23534,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for Enterprise Admins
-URL: https://www.notion.com/help/notion-academy/course/notion-for-enterprise-admins
+Explore more→
++ --- 
+### Notion for Enterprise Admins
 Features
 Notion AI
 Docs
@@ -23611,7 +23573,6 @@ Help Center
 Notion Academy
 Notion for Enterprise Admins
 ← Notion Academy
-Notion for Enterprise Admins
 Everything you need to deploy and manage Notion across your organization as an Admin.
 Notion Admin Overview
 Make sure your team is set up for success with a clear rollout plan and thoughtful workspace architecture.
@@ -23667,8 +23628,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for people ops
-URL: https://www.notion.com/help/notion-academy/course/notion-for-people-ops
+Explore more→
++ --- 
+### Notion for people ops
 Features
 Notion AI
 Docs
@@ -23705,7 +23667,6 @@ Help Center
 Notion Academy
 Notion for people ops
 ← Notion Academy
-Notion for people ops
 Explain how Notion can keep teams on the same page and be able to set up Notion for large teams using teamspaces.
 Notion for HR & People operations
 With Notion, HR teams can create a single place where team members can go for benefits info, team directory, onboarding and more. In this video, we show you how to get this all set up, from scratch!
@@ -23765,8 +23726,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for personal use
-URL: https://www.notion.com/help/notion-academy/course/notion-for-personal-use
+Explore more→
++ --- 
+### Notion for personal use
 Features
 Notion AI
 Docs
@@ -23803,7 +23765,6 @@ Help Center
 Notion Academy
 Notion for personal use
 ← Notion Academy
-Notion for personal use
 Build 3 essential tools for daily life and explain how Notion can be used to support personal organization.
 Personal: Creating a page
 Personal: Writing and editing basics
@@ -23863,8 +23824,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for product and engineering teams
-URL: https://www.notion.com/help/notion-academy/course/notion-for-product-and-engineering
+Explore more→
++ --- 
+### Notion for product and engineering teams
 Features
 Notion AI
 Docs
@@ -23901,7 +23863,6 @@ Help Center
 Notion Academy
 Notion for product and engineering teams
 ← Notion Academy
-Notion for product and engineering teams
 Build three essential tools for product and engineering teams, and learn how Notion can support technical organizations to plan and execute more efficiently.
 Notion for engineers
 If you’re an engineer and you’re new to Notion, you’ve found the right video. We’ll teach you how to create an engineering wiki and how you can set up your Notion to manage tasks and projects.
@@ -23959,8 +23920,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Organize information with databases
-URL: https://www.notion.com/help/notion-academy/course/organizing-information-databases
+Explore more→
++ --- 
+### Organize information with databases
 Features
 Notion AI
 Docs
@@ -23997,7 +23959,6 @@ Help Center
 Notion Academy
 Organize information with databases
 ← Notion Academy
-Organize information with databases
 Databases are a powerful Notion feature that can unlock your toolmaking potential. Create databases, learn about layout types, and build databases for teams.
 Intro to databases
 Databases in Notion are collections of pages. Here, we'll introduce you to the general structure of a database, discuss the different menus and options, and deep dive into how to open and edit pages within a database. 🗃
@@ -24067,8 +24028,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Scaling your team
-URL: https://www.notion.com/help/notion-academy/course/scaling-your-team
+Explore more→
++ --- 
+### Scaling your team
 Features
 Notion AI
 Docs
@@ -24105,7 +24067,6 @@ Help Center
 Notion Academy
 Scaling your team
 ← Notion Academy
-Scaling your team
 Everything you need to know about content management and sharing in Notion. Start with a deep dive into the sidebar and page sharing, then work your way up to teamspaces and inherited permissions.
 Scaling your team: Introduction
 Welcome to Notion’s course on scaling your team!
@@ -24171,8 +24132,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Key setups for startup teams
-URL: https://www.notion.com/help/notion-academy/course/setups-for-startup-teams
+Explore more→
++ --- 
+### Key setups for startup teams
 Features
 Notion AI
 Docs
@@ -24209,7 +24171,6 @@ Help Center
 Notion Academy
 Key setups for startup teams
 ← Notion Academy
-Key setups for startup teams
 Bust information silos and save valuable time and money by using Notion to replace common workplace tools. Here's just some of the tools and templates in Notion that can get your ideas off the ground.
 Get started with templates
 Startup in a box is a one-stop-shop to get your startup up and running, and establish the documentation and operating systems that will support you through all stages of your company’s growth.
@@ -24269,8 +24230,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Build a wiki that scales
-URL: https://www.notion.com/help/notion-academy/course/structure-a-documentation-system-that-scales
+Explore more→
++ --- 
+### Build a wiki that scales
 Features
 Notion AI
 Docs
@@ -24307,7 +24269,6 @@ Help Center
 Notion Academy
 Build a wiki that scales
 ← Notion Academy
-Build a wiki that scales
 Build a documentation system for a large company using databases and teamspaces. This course will move from creating pages to creating large databases and administrating teamspaces.
 Creating a page
 Learn how to get started by adding a new page to your Notion workspace.
@@ -24367,8 +24328,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Getting started with templates and Marketplace
-URL: https://www.notion.com/help/notion-academy/course/templates-and-marketplace
+Explore more→
++ --- 
+### Getting started with templates and Marketplace
 Features
 Notion AI
 Docs
@@ -24405,7 +24367,6 @@ Help Center
 Notion Academy
 Getting started with templates and Marketplace
 ← Notion Academy
-Getting started with templates and Marketplace
 Create, list, market, and sell templates in Notion's Marketplace — whether you’re just starting out or looking to up-level your existing template business.
 Introduction to templates and Marketplace
 Want to list or even sell templates in Marketplace? This course is the place to start.
@@ -24465,8 +24426,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Using data
-URL: https://www.notion.com/help/notion-academy/course/using-data
+Explore more→
++ --- 
+### Using data
 Features
 Notion AI
 Docs
@@ -24503,7 +24465,6 @@ Help Center
 Notion Academy
 Using data
 ← Notion Academy
-Using data
 Work with large data sets in Notion including native databases, 1st party integrations, and link previews.
 Using data: Introduction
 Welcome to Notion’s course on using data!
@@ -24569,8 +24530,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Workspace refresh
-URL: https://www.notion.com/help/notion-academy/course/workspace-refresh
+Explore more→
++ --- 
+### Workspace refresh
 Features
 Notion AI
 Docs
@@ -24607,7 +24569,6 @@ Help Center
 Notion Academy
 Workspace refresh
 ← Notion Academy
-Workspace refresh
 Without proper maintenance, Notion workspaces can get messy over time. This course is designed to help you put structure and order back into your workspace.
 Preparing for a refresh
 Learn what's involved with a workspace refresh, including the scope, timeline, and team communications.
@@ -24665,8 +24626,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### 101: Introduction
-URL: https://www.notion.com/help/notion-academy/lesson/101-introduction
+Explore more→
++ --- 
+### 101: Introduction
 Features
 Notion AI
 Docs
@@ -24704,7 +24666,6 @@ Notion Academy
 101: Introduction
 101: Introduction
 ← Notion Academy
-101: Introduction
 What is Notion, plus everything you'll learn in this course.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Write and edit text
@@ -24743,8 +24704,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Blocks
-URL: https://www.notion.com/help/notion-academy/lesson/blocks
+Explore more→
++ --- 
+### Blocks
 Features
 Notion AI
 Docs
@@ -24782,7 +24744,6 @@ Notion Academy
 101: Introduction
 Blocks
 ← Notion Academy
-Blocks
 Blocks are the basic unit of construction in Notion. Learn how 500+ block types come together to create beautiful, custom tools.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Blocks are the way you build in Notion. Everything that sits on a page is a block including text, images, and tables.
@@ -24839,8 +24800,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Build a team notes and docs database
-URL: https://www.notion.com/help/notion-academy/lesson/build-a-team-notes-and-docs-database
+Explore more→
++ --- 
+### Build a team notes and docs database
 Features
 Notion AI
 Docs
@@ -24878,7 +24840,6 @@ Notion Academy
 Key setups for startup teams
 Build a team notes and docs database
 ← Notion Academy
-Build a team notes and docs database
 It's easy for team members to help build a living record of meetings and decisions, so that anyone can find the information they need. We'll show you where to keep notes, how to build the databases that store them, and how to create dynamic links between your notes & projects.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Assignment
@@ -24919,8 +24880,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Building a personal task page
-URL: https://www.notion.com/help/notion-academy/lesson/building-a-personal-task-page
+Explore more→
++ --- 
+### Building a personal task page
 Features
 Notion AI
 Docs
@@ -24958,7 +24920,6 @@ Notion Academy
 Notion for personal use
 Building a personal task page
 ← Notion Academy
-Building a personal task page
 Since Notion is so flexible, you can manage your tasks however you want! But we'll show you two specific examples of task management pages that you can build yourself - one that's more lightweight, and one with more features and functionality.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Building a Journal
@@ -24997,8 +24958,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Building a Website with Notion
-URL: https://www.notion.com/help/notion-academy/lesson/building-a-website-with-notion
+Explore more→
++ --- 
+### Building a Website with Notion
 Features
 Notion AI
 Docs
@@ -25036,7 +24998,6 @@ Notion Academy
 How to build a website in Notion
 Building a Website with Notion
 ← Notion Academy
-Building a Website with Notion
 Build a website starting with a template, understand the blocks that can be used, and customize your Site to suit your needs.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion allows you to create a website quickly and easily without any coding required. You can build a landing page, portfolio, or help center using Notion’s powerful building blocks.
@@ -25084,8 +25045,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Create a project plan
-URL: https://www.notion.com/help/notion-academy/lesson/create-a-project-plan
+Explore more→
++ --- 
+### Create a project plan
 Features
 Notion AI
 Docs
@@ -25123,7 +25085,6 @@ Notion Academy
 Getting started with Projects
 Create a project plan
 ← Notion Academy
-Create a project plan
 Create a proposal document that will help you align all stakeholders and set the foundation for a successful project plan using Notion.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 We recommend teams make use of one centralized “Docs” database for managing project proposals, PRDs, tech specs, and more.Later, you’ll learn how to connect these to projects and tasks.
@@ -25173,8 +25134,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Personal: Creating a page
-URL: https://www.notion.com/help/notion-academy/lesson/creating-a-page
+Explore more→
++ --- 
+### Personal: Creating a page
 Features
 Notion AI
 Docs
@@ -25212,7 +25174,6 @@ Notion Academy
 Notion for personal use
 Personal: Creating a page
 ← Notion Academy
-Personal: Creating a page
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Learn how to get started by adding a new page to your Notion workspace.
 Personal: Writing and editing basics
@@ -25251,8 +25212,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Creating a page
-URL: https://www.notion.com/help/notion-academy/lesson/creating-a-page-docs
+Explore more→
++ --- 
+### Creating a page
 Features
 Notion AI
 Docs
@@ -25290,7 +25252,6 @@ Notion Academy
 Build a wiki that scales
 Creating a page
 ← Notion Academy
-Creating a page
 Learn how to get started by adding a new page to your Notion workspace.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Writing and editing basics
@@ -25329,8 +25290,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Creating a Template
-URL: https://www.notion.com/help/notion-academy/lesson/creating-a-template
+Explore more→
++ --- 
+### Creating a Template
 Features
 Notion AI
 Docs
@@ -25368,7 +25330,6 @@ Notion Academy
 Getting started with templates and Marketplace
 Creating a Template
 ← Notion Academy
-Creating a Template
 Building a template takes more than just Notion skill! Learn how to create templates that users will love and find valuable.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Start by finding a system that works well for you, then tailor it to a specific audience, leveraging your unique skills and knowledge to create a template that fills a gap in the market — it's all about solving real problems for real people!
@@ -25434,8 +25395,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Introduction to templates and Marketplace
-URL: https://www.notion.com/help/notion-academy/lesson/creator-course-intro
+Explore more→
++ --- 
+### Introduction to templates and Marketplace
 Features
 Notion AI
 Docs
@@ -25473,7 +25435,6 @@ Notion Academy
 Getting started with templates and Marketplace
 Introduction to templates and Marketplace
 ← Notion Academy
-Introduction to templates and Marketplace
 Want to list or even sell templates in Marketplace? This course is the place to start.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 ANotion templateis a pre-designed page or set of pages that users can duplicate and customize for their own workflows — serving as inspiration, speeding up setup, and potentially improving efficiency for businesses.
@@ -25521,8 +25482,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Establishing documentation and archival strategies
-URL: https://www.notion.com/help/notion-academy/lesson/establishing-documentation-and-archival-strategies
+Explore more→
++ --- 
+### Establishing documentation and archival strategies
 Features
 Notion AI
 Docs
@@ -25560,7 +25522,6 @@ Notion Academy
 Workspace refresh
 Establishing documentation and archival strategies
 ← Notion Academy
-Establishing documentation and archival strategies
 Learn about Notion's Wiki feature and some best practices for archiving outdated content.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 - Auditing a workspace in Notion involves understanding how a company organizes knowledge on the platform and taking note of existing teamspaces and their content.- Teampspaces in Notion are used to separate different types of content or workflows within a workspace and their implementation should be planned.- It's important to ensure workspace members have the correct level of administrative access, with workspace owner being the highest level of administrator privilege.- Settings can be adjusted to control who can create new teamspaces and who can edit top-level pages of teamspaces.- Communication with the company about changes being implemented is key.
@@ -25603,8 +25564,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Explore templates for different use cases
-URL: https://www.notion.com/help/notion-academy/lesson/explore-templates-for-different-use-cases
+Explore more→
++ --- 
+### Explore templates for different use cases
 Features
 Notion AI
 Docs
@@ -25642,7 +25604,6 @@ Notion Academy
 Notion for Enterprise Admins
 Explore templates for different use cases
 ← Notion Academy
-Explore templates for different use cases
 There are a variety of ways that teams can use Notion to improve their workflow and collaboration. Using templates can help you hit the ground running.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Explore deep dives into common Notion use cases below:
@@ -25697,8 +25658,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Getting to know Notion AI
-URL: https://www.notion.com/help/notion-academy/lesson/getting-to-know-notion-ai
+Explore more→
++ --- 
+### Getting to know Notion AI
 Features
 Notion AI
 Docs
@@ -25736,7 +25698,6 @@ Notion Academy
 Getting started with Notion AI
 Getting to know Notion AI
 ← Notion Academy
-Getting to know Notion AI
 Welcome to our course that's all about getting started with Notion AI! In this video, you'll get a glimpse of what's to come in this course. Plus, learn how to access Notion AI, and when to use it for maximum impact.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 What is Notion AI?
@@ -25798,8 +25759,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How to build a connected workspace
-URL: https://www.notion.com/help/notion-academy/lesson/how-to-build-a-connected-workspace
+Explore more→
++ --- 
+### How to build a connected workspace
 Features
 Notion AI
 Docs
@@ -25837,7 +25799,6 @@ Notion Academy
 How to build a connected workspace
 How to build a connected workspace
 ← Notion Academy
-How to build a connected workspace
 Welcome to our course on building a connected workspace! Your AI-enabled workspace becomes more powerful when it’s connected, comprehensive, and up-to-date — here’s everything you’ll want to learn to get there.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Assignment
@@ -25878,8 +25839,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### How to create OKRs
-URL: https://www.notion.com/help/notion-academy/lesson/how-to-create-okrs
+Explore more→
++ --- 
+### How to create OKRs
 Features
 Notion AI
 Docs
@@ -25917,7 +25879,6 @@ Notion Academy
 Key setups for startup teams
 How to create OKRs
 ← Notion Academy
-How to create OKRs
 OKRs (objectives and key results) is a framework that helps teams set goals and keep track of their progress. With this system in Notion, you can create objectives and assign them specific key results, timelines, owners, and more.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 How to build a help center
@@ -25956,8 +25917,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Importing Data
-URL: https://www.notion.com/help/notion-academy/lesson/importing-data
+Explore more→
++ --- 
+### Importing Data
 Features
 Notion AI
 Docs
@@ -25995,7 +25957,6 @@ Notion Academy
 How to build a connected workspace
 Importing Data
 ← Notion Academy
-Importing Data
 Start centralizing your workflows by surveying your existing tools and importing data in Notion.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 The first step to building a connected workspace is surveying your team's tool stack and categorizing tools into two categories:Replace: Docs and wiki tools, project management tools, AI writersIntegrate: Specialized tools, like Figma, Slack, and GitHub
@@ -26049,8 +26010,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to databases
-URL: https://www.notion.com/help/notion-academy/lesson/intro-to-databases
+Explore more→
++ --- 
+### Intro to databases
 Features
 Notion AI
 Docs
@@ -26088,7 +26050,6 @@ Notion Academy
 Organize information with databases
 Intro to databases
 ← Notion Academy
-Intro to databases
 Databases in Notion are collections of pages. Here, we'll introduce you to the general structure of a database, discuss the different menus and options, and deep dive into how to open and edit pages within a database. 🗃
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Using database views
@@ -26127,8 +26088,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Listing a Template
-URL: https://www.notion.com/help/notion-academy/lesson/listing-a-template
+Explore more→
++ --- 
+### Listing a Template
 Features
 Notion AI
 Docs
@@ -26166,7 +26128,6 @@ Notion Academy
 Getting started with templates and Marketplace
 Listing a Template
 ← Notion Academy
-Listing a Template
 It's not enough to build a great template, you have to create a good listing if you want people to find it. Learn how to create a template listing in Marketplace to entice potential users.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Components of a template listingTitle: Make it descriptive and specific to help users understand what your template offers.Description: Keep it humble and focused. Share what's in the template, not just marketing words.Categories: Choose appropriate categories to help users find your template.Screenshots: Include 3-5 high-quality screenshots or even videos showcasing different parts of your template.
@@ -26240,8 +26201,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### People ops: Navigating the sidebar
-URL: https://www.notion.com/help/notion-academy/lesson/navigating-the-sidebar
+Explore more→
++ --- 
+### People ops: Navigating the sidebar
 Features
 Notion AI
 Docs
@@ -26279,7 +26241,6 @@ Notion Academy
 Notion for people ops
 People ops: Navigating the sidebar
 ← Notion Academy
-People ops: Navigating the sidebar
 Notion's sidebar has all the tools you need to organize your pages, add templates, access settings & more.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Setting up Notion for remote work
@@ -26318,8 +26279,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Navigating the sidebar
-URL: https://www.notion.com/help/notion-academy/lesson/navigating-the-sidebar-docs
+Explore more→
++ --- 
+### Navigating the sidebar
 Features
 Notion AI
 Docs
@@ -26357,7 +26319,6 @@ Notion Academy
 Build a wiki that scales
 Navigating the sidebar
 ← Notion Academy
-Navigating the sidebar
 Notion's sidebar has all the tools you need to organize your pages, add templates, access settings & more.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Docs & Wikis for large teams
@@ -26396,8 +26357,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Admin Overview
-URL: https://www.notion.com/help/notion-academy/lesson/notion-admin-overview
+Explore more→
++ --- 
+### Notion Admin Overview
 Features
 Notion AI
 Docs
@@ -26435,7 +26397,6 @@ Notion Academy
 Notion for Enterprise Admins
 Notion Admin Overview
 ← Notion Academy
-Notion Admin Overview
 Make sure your team is set up for success with a clear rollout plan and thoughtful workspace architecture.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Onboarding Best Practices
@@ -26481,8 +26442,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for engineers
-URL: https://www.notion.com/help/notion-academy/lesson/notion-for-engineers
+Explore more→
++ --- 
+### Notion for engineers
 Features
 Notion AI
 Docs
@@ -26520,7 +26482,6 @@ Notion Academy
 Notion for product and engineering teams
 Notion for engineers
 ← Notion Academy
-Notion for engineers
 If you’re an engineer and you’re new to Notion, you’ve found the right video. We’ll teach you how to create an engineering wiki and how you can set up your Notion to manage tasks and projects.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion for product managers
@@ -26559,8 +26520,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for HR & People operations
-URL: https://www.notion.com/help/notion-academy/lesson/notion-for-hr-and-people-operations
+Explore more→
++ --- 
+### Notion for HR & People operations
 Features
 Notion AI
 Docs
@@ -26598,7 +26560,6 @@ Notion Academy
 Notion for people ops
 Notion for HR & People operations
 ← Notion Academy
-Notion for HR & People operations
 With Notion, HR teams can create a single place where team members can go for benefits info, team directory, onboarding and more. In this video, we show you how to get this all set up, from scratch!
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 People ops: Navigating the sidebar
@@ -26637,8 +26598,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for product managers
-URL: https://www.notion.com/help/notion-academy/lesson/notion-for-product-managers
+Explore more→
++ --- 
+### Notion for product managers
 Features
 Notion AI
 Docs
@@ -26676,7 +26638,6 @@ Notion Academy
 Notion for product and engineering teams
 Notion for product managers
 ← Notion Academy
-Notion for product managers
 Using Notion, product managers can conduct user research, prioritize feature requests, and connect the many dots that bring their products to life.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Product and Eng: Build a team notes and docs database
@@ -26715,8 +26676,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Plan projects with AI
-URL: https://www.notion.com/help/notion-academy/lesson/plan-projects-with-ai
+Explore more→
++ --- 
+### Plan projects with AI
 Features
 Notion AI
 Docs
@@ -26754,7 +26716,6 @@ Notion Academy
 Getting started with Projects
 Plan projects with AI
 ← Notion Academy
-Plan projects with AI
 Show you how to leverage the power of Notion AI to build a project plan.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Three ways to use AI to help with your project planGenerate content from scratch with Notion AI by asking for a list of tasks needed to complete your projectExpand previously drafted bullet points by highlighting text and asking AI to "make longer".Clean up and improve writing by asking AI to simplify writing lengthy sections.
@@ -26804,8 +26765,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Preparing for a refresh
-URL: https://www.notion.com/help/notion-academy/lesson/preparing-for-a-refresh
+Explore more→
++ --- 
+### Preparing for a refresh
 Features
 Notion AI
 Docs
@@ -26843,7 +26805,6 @@ Notion Academy
 Workspace refresh
 Preparing for a refresh
 ← Notion Academy
-Preparing for a refresh
 Learn what's involved with a workspace refresh, including the scope, timeline, and team communications.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 - Auditing a workspace in Notion involves understanding how a company organizes knowledge on the platform and taking note of existing teamspaces and their content.- Teampspaces in Notion are used to separate different types of content or workflows within a workspace and their implementation should be planned.- It's important to ensure workspace members have the correct level of administrative access, with workspace owner being the highest level of administrator privilege.- Settings can be adjusted to control who can create new teamspaces and who can edit top-level pages of teamspaces.- Communication with the company about changes being implemented is key.
@@ -26887,8 +26848,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Product and Eng: Build a team notes and docs database
-URL: https://www.notion.com/help/notion-academy/lesson/product-eng-build-a-team-notes-and-docs-database
+Explore more→
++ --- 
+### Product and Eng: Build a team notes and docs database
 Features
 Notion AI
 Docs
@@ -26926,7 +26888,6 @@ Notion Academy
 Notion for product and engineering teams
 Product and Eng: Build a team notes and docs database
 ← Notion Academy
-Product and Eng: Build a team notes and docs database
 It's easy for team members to help build a living record of meetings and decisions, so that anyone can find the information they need. We'll show you where to keep notes, how to build the databases that store them, and how to create dynamic links between your notes & projects.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Assignment
@@ -26967,8 +26928,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Projects: Introduction
-URL: https://www.notion.com/help/notion-academy/lesson/projects-introduction
+Explore more→
++ --- 
+### Projects: Introduction
 Features
 Notion AI
 Docs
@@ -27006,7 +26968,6 @@ Notion Academy
 Getting started with Projects
 Projects: Introduction
 ← Notion Academy
-Projects: Introduction
 Welcome to our project management course! Learn about Notion Projects, and everything you’ll cover in this course.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Create a project plan
@@ -27045,8 +27006,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Publishing Notion pages to the web
-URL: https://www.notion.com/help/notion-academy/lesson/publishing-notion-pages-to-the-web
+Explore more→
++ --- 
+### Publishing Notion pages to the web
 Features
 Notion AI
 Docs
@@ -27084,7 +27046,6 @@ Notion Academy
 How to build a website in Notion
 Publishing Notion pages to the web
 ← Notion Academy
-Publishing Notion pages to the web
 Publish a Notion page to the web in just a few clicks, and learn how to configure basic settings in the publish menu.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Publish a Notion page to the web by navigating to theSharemenu, selecting thePublishtab, and clicking thePublishbutton.
@@ -27132,8 +27093,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Scaling your team: Introduction
-URL: https://www.notion.com/help/notion-academy/lesson/scaling-your-team-introduction
+Explore more→
++ --- 
+### Scaling your team: Introduction
 Features
 Notion AI
 Docs
@@ -27171,7 +27133,6 @@ Notion Academy
 Scaling your team
 Scaling your team: Introduction
 ← Notion Academy
-Scaling your team: Introduction
 Welcome to Notion’s course on scaling your team!
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Scaling your team: Page sharing
@@ -27210,8 +27171,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Scaling your team: Page sharing
-URL: https://www.notion.com/help/notion-academy/lesson/scaling-your-team-page-sharing
+Explore more→
++ --- 
+### Scaling your team: Page sharing
 Features
 Notion AI
 Docs
@@ -27249,7 +27211,6 @@ Notion Academy
 Scaling your team
 Scaling your team: Page sharing
 ← Notion Academy
-Scaling your team: Page sharing
 Learn how to share pages in Notion with other individuals in your workspace, or publicly as websites.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Any pages in the teamspaces section will be accessible to everyone in that teamspace. This can be useful for transparency and keeping everyone on the same page.
@@ -27304,8 +27265,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Scaling your team: Sidebar
-URL: https://www.notion.com/help/notion-academy/lesson/scaling-your-team-sidebar
+Explore more→
++ --- 
+### Scaling your team: Sidebar
 Features
 Notion AI
 Docs
@@ -27343,7 +27305,6 @@ Notion Academy
 Scaling your team
 Scaling your team: Sidebar
 ← Notion Academy
-Scaling your team: Sidebar
 Learn how to find pages using the sidebar and customize it to meet your needs.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 In Notion, pages can house other pages. You can see nested pages by clicking the dropdown on any page in your sidebar.
@@ -27394,8 +27355,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Searching with Notion AI
-URL: https://www.notion.com/help/notion-academy/lesson/searching-with-notion-ai
+Explore more→
++ --- 
+### Searching with Notion AI
 Features
 Notion AI
 Docs
@@ -27433,7 +27395,6 @@ Notion Academy
 Getting started with Notion AI
 Searching with Notion AI
 ← Notion Academy
-Searching with Notion AI
 Use Notion AI's search capabilities to effortlessly find and synthesize information across your workspace and connected apps.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion AI search is more powerful than traditional search because itunderstands contextandcan synthesize information across multiple connected apps
@@ -27489,8 +27450,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Setting up Notion for remote work
-URL: https://www.notion.com/help/notion-academy/lesson/setting-up-notion-for-remote-work
+Explore more→
++ --- 
+### Setting up Notion for remote work
 Features
 Notion AI
 Docs
@@ -27528,7 +27490,6 @@ Notion Academy
 Notion for people ops
 Setting up Notion for remote work
 ← Notion Academy
-Setting up Notion for remote work
 You don't have to share an office with your team to get work done. We'll show you how to quickly set up a workspace for your team to collaborate remotely, as well as some tips and tricks along the way.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 People ops: How to build a job board
@@ -27567,8 +27528,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Introduction to Sites
-URL: https://www.notion.com/help/notion-academy/lesson/site-publishing-in-notion
+Explore more→
++ --- 
+### Introduction to Sites
 Features
 Notion AI
 Docs
@@ -27606,7 +27568,6 @@ Notion Academy
 How to build a website in Notion
 Introduction to Sites
 ← Notion Academy
-Introduction to Sites
 Notion Sites is the easiest way to share with the world your personal portfolio, recommendations, or your company’s blog, job board, and more, simply by clicking “Publish”.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 With Notion Sites you can…Publish any page to the web, including on a custom domainCustomize how your site appears to the world, and let others duplicate it as a templateClaim multiple domains, and manage all of your sites in one placeAnd so much more!
@@ -27656,8 +27617,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Get started with templates
-URL: https://www.notion.com/help/notion-academy/lesson/startups-get-started-templates
+Explore more→
++ --- 
+### Get started with templates
 Features
 Notion AI
 Docs
@@ -27695,7 +27657,6 @@ Notion Academy
 Key setups for startup teams
 Get started with templates
 ← Notion Academy
-Get started with templates
 Startup in a box is a one-stop-shop to get your startup up and running, and establish the documentation and operating systems that will support you through all stages of your company’s growth.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Assignment
@@ -27736,8 +27697,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Timeline view
-URL: https://www.notion.com/help/notion-academy/lesson/timeline-view
+Explore more→
++ --- 
+### Timeline view
 Features
 Notion AI
 Docs
@@ -27775,7 +27737,6 @@ Notion Academy
 Organize information with databases
 Timeline view
 ← Notion Academy
-Timeline view
 Timeline is a type of Notion database that’s way more than a Gantt chart. It gives you complete flexibility to scope projects, adjust their timelines, and customize your workflow.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Table view
@@ -27814,8 +27775,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Understanding the current state of the workspace
-URL: https://www.notion.com/help/notion-academy/lesson/understanding-the-current-state-of-the-workspace
+Explore more→
++ --- 
+### Understanding the current state of the workspace
 Features
 Notion AI
 Docs
@@ -27853,7 +27815,6 @@ Notion Academy
 Workspace refresh
 Understanding the current state of the workspace
 ← Notion Academy
-Understanding the current state of the workspace
 Learn how teamspaces and the workspace owner role can bring structure to your workspace.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 - Auditing a workspace in Notion involves understanding how a company organizes knowledge on the platform and taking note of existing teamspaces and their content.- Teampspaces in Notion are used to separate different types of content or workflows within a workspace and their implementation should be planned.- It's important to ensure workspace members have the correct level of administrative access, with workspace owner being the highest level of administrator privilege.- Settings can be adjusted to control who can create new teamspaces and who can edit top-level pages of teamspaces.- Communication with the company about changes being implemented is key.
@@ -27896,8 +27857,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### User Management
-URL: https://www.notion.com/help/notion-academy/lesson/user-management
+Explore more→
++ --- 
+### User Management
 Features
 Notion AI
 Docs
@@ -27935,7 +27897,6 @@ Notion Academy
 Notion for Enterprise Admins
 User Management
 ← Notion Academy
-User Management
 It’s essential for admins to effectively manage users to ensure everyone has access to the right content and level of permissions.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Configuring SSO (Single Sign-On) and SCIM (System for Cross-domain Identity Management) allows teams to further streamline user management across their organization.
@@ -27980,8 +27941,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Using data: Database views
-URL: https://www.notion.com/help/notion-academy/lesson/using-data-database-views
+Explore more→
++ --- 
+### Using data: Database views
 Features
 Notion AI
 Docs
@@ -28019,7 +27981,6 @@ Notion Academy
 Using data
 Using data: Database views
 ← Notion Academy
-Using data: Database views
 Learn how to create new layouts on databases, and sort and filter data to see exactly what you need.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 When you first create a database, you'll need to choose the layout of the default view. After this, you'll see the option to create additional views as tabs, with the+button. Your database can have as many views as you want!
@@ -28087,8 +28048,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Using data: Intro to databases
-URL: https://www.notion.com/help/notion-academy/lesson/using-data-intro-to-databases
+Explore more→
++ --- 
+### Using data: Intro to databases
 Features
 Notion AI
 Docs
@@ -28126,7 +28088,6 @@ Notion Academy
 Using data
 Using data: Intro to databases
 ← Notion Academy
-Using data: Intro to databases
 Get started with databases, one of Notion’s most powerful features for organization, by creating a content calendar for a marketing team.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Databases might look like the typical spreadsheet, but they’re way more powerful. Unlike spreadsheets, databases can be filled with dynamic, relational data.
@@ -28185,8 +28146,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Using data: Introduction
-URL: https://www.notion.com/help/notion-academy/lesson/using-data-introduction
+Explore more→
++ --- 
+### Using data: Introduction
 Features
 Notion AI
 Docs
@@ -28224,7 +28186,6 @@ Notion Academy
 Using data
 Using data: Introduction
 ← Notion Academy
-Using data: Introduction
 Welcome to Notion’s course on using data!
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Using data: Intro to databases
@@ -28263,8 +28224,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Using database views
-URL: https://www.notion.com/help/notion-academy/lesson/using-database-views
+Explore more→
++ --- 
+### Using database views
 Features
 Notion AI
 Docs
@@ -28302,7 +28264,6 @@ Notion Academy
 Organize information with databases
 Using database views
 ← Notion Academy
-Using database views
 Here, we'll introduce you to the different customization options and layouts that exist once you have a database set up in your workspace.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Timeline view
@@ -28341,8 +28302,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### What’s in a connected workspace?
-URL: https://www.notion.com/help/notion-academy/lesson/whats-in-a-connected-workspace
+Explore more→
++ --- 
+### What’s in a connected workspace?
 Features
 Notion AI
 Docs
@@ -28380,7 +28342,6 @@ Notion Academy
 How to build a connected workspace
 What’s in a connected workspace?
 ← Notion Academy
-What’s in a connected workspace?
 The ideal connected workspace organizes specific types of knowledge. To understand and apply these concepts in practice, explore the sidebar and create a new teamspace.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Your workspace should have two kinds of teamspaces — General (for everyone, company-wide) and team-specific (one for each team… marketing, product, etc.)
@@ -28432,8 +28393,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Write and edit text
-URL: https://www.notion.com/help/notion-academy/lesson/write-edit-text
+Explore more→
++ --- 
+### Write and edit text
 Features
 Notion AI
 Docs
@@ -28471,7 +28433,6 @@ Notion Academy
 101: Introduction
 Write and edit text
 ← Notion Academy
-Write and edit text
 Learn how to create and edit pages in Notion by making a simple personal task list.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Every page you create in Notion is a fresh canvas where you can add whatever content you want.
@@ -28527,8 +28488,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Personal: Writing and editing basics
-URL: https://www.notion.com/help/notion-academy/lesson/writing-and-editing-basics
+Explore more→
++ --- 
+### Personal: Writing and editing basics
 Features
 Notion AI
 Docs
@@ -28566,7 +28528,6 @@ Notion Academy
 Notion for personal use
 Personal: Writing and editing basics
 ← Notion Academy
-Personal: Writing and editing basics
 Every Notion page is highly customizable - learn how to format text and other content blocks to your liking.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Building a personal task page
@@ -28605,8 +28566,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Writing and editing basics
-URL: https://www.notion.com/help/notion-academy/lesson/writing-and-editing-basics-docs
+Explore more→
++ --- 
+### Writing and editing basics
 Features
 Notion AI
 Docs
@@ -28644,7 +28606,6 @@ Notion Academy
 Build a wiki that scales
 Writing and editing basics
 ← Notion Academy
-Writing and editing basics
 Every Notion page is highly customizable - learn how to format text and other content blocks to your liking.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Navigating the sidebar
@@ -28683,8 +28644,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Writing with Notion AI
-URL: https://www.notion.com/help/notion-academy/lesson/writing-with-notion-ai
+Explore more→
++ --- 
+### Writing with Notion AI
 Features
 Notion AI
 Docs
@@ -28722,7 +28684,6 @@ Notion Academy
 Getting started with Notion AI
 Writing with Notion AI
 ← Notion Academy
-Writing with Notion AI
 Learn how to use AI to enhance your writing at every stage of the process, from research and outlining to drafting and polishing your work.
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Rather than relying on AI to generate complete drafts, use it strategically throughout your writing process to enhance research, organization, and refinement while maintaining your unique voice and creative control.Research —Notion AI's search capabilities help you quickly gather context from across your workspace, making research more efficient by surfacing relevant information from multiple sources.Outlining —AI assists in creating document templates and organizing notes into structured outlines, with the ability to incorporate existing templates from your workspace through @-mentions.Drafting —Rather than generating entire documents at once, Notion AI excels at transforming bullet points into coherent paragraphs and adapting content to match specific requirements.Making improvements —The AI can rewrite content to match your organization's style guides and templates, ensuring consistency across documents while maintaining the original message.Final Polishing —One-click writing skills help with grammar, spelling, and readability improvements, while also offering translation capabilities for global teams.
@@ -28776,8 +28737,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for GitHub
-URL: https://www.notion.com/help/notion-ai-connector-for-github
+Explore more→
++ --- 
+### Notion AI connector for GitHub
 Features
 Notion AI
 Docs
@@ -28814,7 +28776,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for GitHub
 Learn how to unlock your GitHub knowledge in Notion AI 🤖
 Who can connect GitHub to Notion AI?
 How do I connect my GitHub organization?
@@ -28970,8 +28931,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for Jira (beta)
-URL: https://www.notion.com/help/notion-ai-connector-for-jira
+Explore more→
++ --- 
+### Notion AI connector for Jira (beta)
 Features
 Notion AI
 Docs
@@ -29008,7 +28970,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for Jira (beta)
 Connect Notion AI with your Jira site to seamlessly bring in information from your projects, issues, and tasks 🎟️
 Who can connect Jira to Notion AI?
 How do I connect my Jira site?
@@ -29186,8 +29147,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI Connector for Linear (beta)
-URL: https://www.notion.com/help/notion-ai-connector-for-linear
+Explore more→
++ --- 
+### Notion AI Connector for Linear (beta)
 Features
 Notion AI
 Docs
@@ -29224,7 +29186,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI Connector for Linear (beta)
 Who can connect Linear to Notion AI?
 How do I connect Linear?
 FAQs
@@ -29311,8 +29272,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for Microsoft SharePoint & OneDrive (beta)
-URL: https://www.notion.com/help/notion-ai-connector-for-microsoft-sharepoint-and-onedrive
+Explore more→
++ --- 
+### Notion AI connector for Microsoft SharePoint & OneDrive (beta)
 Features
 Notion AI
 Docs
@@ -29349,7 +29311,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for Microsoft SharePoint & OneDrive (beta)
 Connect SharePoint & OneDrive to Notion AI.
 Who can connect SharePoint and OneDrive to Notion AI?
 How do I connect SharePoint and OneDrive?
@@ -29483,8 +29444,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for Microsoft Teams (beta)
-URL: https://www.notion.com/help/notion-ai-connector-for-microsoft-teams
+Explore more→
++ --- 
+### Notion AI connector for Microsoft Teams (beta)
 Features
 Notion AI
 Docs
@@ -29521,7 +29483,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for Microsoft Teams (beta)
 Connect Notion AI to Microsoft Teams to keep all your work in context.
 Who can connect Microsoft Teams to Notion AI?
 How do I connect Microsoft Teams?
@@ -29646,8 +29607,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connectors
-URL: https://www.notion.com/help/notion-ai-connectors
+Explore more→
++ --- 
+### Notion AI connectors
 Features
 Notion AI
 Docs
@@ -29684,7 +29646,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connectors
 With Notion AI connectors, you can use Notion as a single place to find the information you need — even if it lives outside your workspace 👣
 What are Notion AI connectors?
 Set up and manage Notion AI connectors
@@ -29805,8 +29766,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for Google Drive
-URL: https://www.notion.com/help/notion-ai-connectors-for-google-drive
+Explore more→
++ --- 
+### Notion AI connector for Google Drive
 Features
 Notion AI
 Docs
@@ -29843,7 +29805,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for Google Drive
 Get answers from your Google Drive files without having to leave Notion 📂
 Who can connect Google Drive to Notion AI?
 How do I connect my Google Drive?
@@ -30027,8 +29988,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI connector for Slack
-URL: https://www.notion.com/help/notion-ai-connectors-for-slack
+Explore more→
++ --- 
+### Notion AI connector for Slack
 Features
 Notion AI
 Docs
@@ -30065,7 +30027,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI connector for Slack
 Learn how to connect your Slack workspace to your Notion workspace so that you can find quick answers in Notion using information from your Slack conversations 💬
 Who can connect Slack to Notion AI?
 How do I connect my Slack workspace?
@@ -30240,8 +30201,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### What is Notion AI?
-URL: https://www.notion.com/help/notion-ai-faqs
+Explore more→
++ --- 
+### What is Notion AI?
 Features
 Notion AI
 Docs
@@ -30278,7 +30240,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-What is Notion AI?
 Notion AI is integrated into your Notion workspace so that you can unlock knowledge, answers, and ideas with just a click 🤖
 Where to find Notion AI
 Notion AI keyboard shortcut
@@ -30481,8 +30442,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion AI security & privacy practices
-URL: https://www.notion.com/help/notion-ai-security-practices
+Explore more→
++ --- 
+### Notion AI security & privacy practices
 Features
 Notion AI
 Docs
@@ -30519,7 +30481,6 @@ Help Center
 Reference
 Notion AI
 ← Notion AI
-Notion AI security & privacy practices
 At Notion, we want to be transparent with our customers about our products and how we use AI to enhance our users’ experience. Below is an overview of Notion AI functionality and related security and privacy practices 🔒
 What is Notion AI?
 How does Notion AI work?
@@ -30658,8 +30619,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar apps
-URL: https://www.notion.com/help/notion-calendar-apps
+Explore more→
++ --- 
+### Notion Calendar apps
 Features
 Notion AI
 Docs
@@ -30696,7 +30658,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar apps
 Notion Calendar is available on web, Mac, Windows, iOS, and Android 🌐
 Notion Calendar for web
 Notion Calendar for desktop
@@ -30806,8 +30767,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar for teams
-URL: https://www.notion.com/help/notion-calendar-for-teams
+Explore more→
++ --- 
+### Notion Calendar for teams
 Features
 Notion AI
 Docs
@@ -30844,7 +30806,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar for teams
 No need to share calendars just to see someone’s schedule. With Notion Calendar, you can instantly find time to collaborate or connect 👀
 See a teammate's calendar
 Add your teammate's calendar to your calendar
@@ -30918,8 +30879,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar integrations & API
-URL: https://www.notion.com/help/notion-calendar-integrations
+Explore more→
++ --- 
+### Notion Calendar integrations & API
 Features
 Notion AI
 Docs
@@ -30956,7 +30918,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar integrations & API
 Notion Calendar works with a lot of other tools that you already use in your day to day. It also works seamlessly with Notion 🔌
 Conferencing integrations
 Set a default conferencing option
@@ -31085,8 +31046,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar keyboard shortcuts
-URL: https://www.notion.com/help/notion-calendar-keyboard-shortcuts
+Explore more→
++ --- 
+### Notion Calendar keyboard shortcuts
 Features
 Notion AI
 Docs
@@ -31123,7 +31085,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar keyboard shortcuts
 Save even more time by using keyboard shortcuts in Notion Calendar ⌨️
 In Notion Calendar for desktop or web, use the keyboard shortcut?to pull up a list of all of the keyboard shortcuts you can use. You can also search for a specific shortcut.
 There are also global Notion Calendar keyboard shortcuts, which you can use even when you’re in a different app and Notion Calendar is running in the background. To see and change these shortcuts:
@@ -31180,8 +31141,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar security practices
-URL: https://www.notion.com/help/notion-calendar-security-practices
+Explore more→
++ --- 
+### Notion Calendar security practices
 Features
 Notion AI
 Docs
@@ -31218,7 +31180,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar security practices
 Learn how Notion Calendar, a Notion product, provides secure access to your calendar and protects your data 🔒
 General data and security
 What encryption does Calendar use?
@@ -31297,8 +31258,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Calendar settings
-URL: https://www.notion.com/help/notion-calendar-settings
+Explore more→
++ --- 
+### Notion Calendar settings
 Features
 Notion AI
 Docs
@@ -31335,7 +31297,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Notion Calendar settings
 There are lots of ways to change how Notion Calendar shows and reminds you about meetings 🗓️
 Settings on mobile
 Notification settings
@@ -31485,8 +31446,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Common Notion errors
-URL: https://www.notion.com/help/notion-error-messages
+Explore more→
++ --- 
+### Common Notion errors
 Features
 Notion AI
 Docs
@@ -31523,7 +31485,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-Common Notion errors
 General errors and solutions
 "Offline" or "Connect to the internet"
 "Your file is over the limit"
@@ -31670,8 +31631,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Faces
-URL: https://www.notion.com/help/notion-faces
+Explore more→
++ --- 
+### Notion Faces
 Features
 Notion AI
 Docs
@@ -31708,7 +31670,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Notion Faces
 Learn how to create your own personalized portrait with Notion Faces 🧑🏼‍🎨
 Access Notion Faces
 Create and customize your portrait
@@ -31769,8 +31730,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for creators
-URL: https://www.notion.com/help/notion-for-creators
+Explore more→
++ --- 
+### Notion for creators
 Features
 Notion AI
 Docs
@@ -31807,7 +31769,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Notion for creators
 Learn all about the Notion for Creators program 🧑🏼‍🎨
 How to apply
 How to use the offer
@@ -31868,8 +31829,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for desktop
-URL: https://www.notion.com/help/notion-for-desktop
+Explore more→
++ --- 
+### Notion for desktop
 Features
 Notion AI
 Docs
@@ -31906,7 +31868,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Notion for desktop
 You can use Notion on your Mac or PC as a downloadable desktop application. Here's what you need to know 🖥️
 Why use the desktop app?
 Open search when you create a new tab
@@ -32053,8 +32014,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for education
-URL: https://www.notion.com/help/notion-for-education
+Explore more→
++ --- 
+### Notion for education
 Features
 Notion AI
 Docs
@@ -32091,7 +32053,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Notion for education
 Whether you’re a student or a teacher, Notion is here to help balance your many responsibilities with its all-in-one workspace 🍎
 What's included in the Plus Plan for education
 Upgrade to the Plus Plan for education
@@ -32307,8 +32268,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for mobile
-URL: https://www.notion.com/help/notion-for-mobile
+Explore more→
++ --- 
+### Notion for mobile
 Features
 Notion AI
 Docs
@@ -32345,7 +32307,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Notion for mobile
 You can download Notion on your iOS or Android device for easy access on the go. Read, edit and comment on any of your Notion content from the mobile app 🤳
 Download the mobile app
 System requirements
@@ -32435,8 +32396,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion beta program
-URL: https://www.notion.com/help/notion-for-mobile-beta-version
+Explore more→
++ --- 
+### Notion beta program
 Features
 Notion AI
 Docs
@@ -32473,7 +32435,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Notion beta program
 Get early access to new mobile features before anyone else, and help shape the future of Notion’s iOS & Android apps! Compared to the standard mobile apps, you’ll receive bug fixes and updates much quicker 📲
 Notion beta for iOS
 How to sign up
@@ -32563,8 +32524,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for startups
-URL: https://www.notion.com/help/notion-for-startups
+Explore more→
++ --- 
+### Notion for startups
 Features
 Notion AI
 Docs
@@ -32601,7 +32563,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Notion for startups
 Eligible startups can get 3 or 6 months free of Notion's Business Plan, including Notion AI. To qualify, you must be a new, non-paying Notion customer and meet our program requirements. Learn more below 🚀
 How to apply
 How to use the offer
@@ -32691,8 +32652,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion for web
-URL: https://www.notion.com/help/notion-for-web
+Explore more→
++ --- 
+### Notion for web
 Features
 Notion AI
 Docs
@@ -32729,7 +32691,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Notion for web
 Notion is a cloud-based app, and you can access it from various web browsers. As long as you're connected to the web, all of your content syncs automatically 💻
 Access the web app
 System requirements
@@ -32778,8 +32739,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Mail keyboard shortcuts
-URL: https://www.notion.com/help/notion-mail-keyboard-shortcuts
+Explore more→
++ --- 
+### Notion Mail keyboard shortcuts
 Features
 Notion AI
 Docs
@@ -32816,7 +32778,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Notion Mail keyboard shortcuts
 Here are all of the keyboard shortcuts available in Notion Mail ⌨️
 Inbox
 Compose
@@ -32989,8 +32950,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Mail security practices
-URL: https://www.notion.com/help/notion-mail-security-practices
+Explore more→
++ --- 
+### Notion Mail security practices
 Features
 Notion AI
 Docs
@@ -33027,7 +32989,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Notion Mail security practices
 Learn about how we handle security for Notion Mail ✉️
 General questions
 Data and security
@@ -33139,8 +33100,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Notion Mail settings
-URL: https://www.notion.com/help/notion-mail-settings
+Explore more→
++ --- 
+### Notion Mail settings
 Features
 Notion AI
 Docs
@@ -33177,7 +33139,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Notion Mail settings
 Learn about the settings you can adjust in Notion Mail ⚙️
 Inbox
 Notion AI
@@ -33267,8 +33228,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Sorry, an error occurred on the server.
-URL: https://www.notion.com/help/notion-sites-availability-and-pricing
+Explore more→
++ --- 
+### Sorry, an error occurred on the server.
 Features
 Notion AI
 Docs
@@ -33301,7 +33263,6 @@ API
 Templates
 Security
 Consultants
-Sorry, an error occurred on the server.
 Learn about Notion→
 
 
@@ -33337,8 +33298,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Optimize database load times & performance
-URL: https://www.notion.com/help/optimize-database-load-times-and-performance
+Explore more→
++ --- 
+### Optimize database load times & performance
 Features
 Notion AI
 Docs
@@ -33375,7 +33337,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Optimize database load times & performance
 Here’s how to make sure your databases are always feeling quick and snappy 🏃🏼
 Things that can slow your database down
 Things you can do to speed up your database setup
@@ -33457,8 +33418,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Organization level controls
-URL: https://www.notion.com/help/organization-level-controls
+Explore more→
++ --- 
+### Organization level controls
 Features
 Notion AI
 Docs
@@ -33495,7 +33457,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Organization level controls
 Manage all of your organization’s workspaces and apply settings at the organization level in one place 🎮
 Who can apply organization level controls?
 Access organization level controls
@@ -33637,8 +33598,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Page analytics
-URL: https://www.notion.com/help/page-analytics
+Explore more→
++ --- 
+### Page analytics
 Features
 Notion AI
 Docs
@@ -33675,7 +33637,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Page analytics
 Gain insight into how your content is performing by tracking page popularity and views 📜
 View page analytics
 Opt out of page analytics
@@ -33742,8 +33703,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Paid plan trials
-URL: https://www.notion.com/help/paid-plan-trials
+Explore more→
++ --- 
+### Paid plan trials
 Features
 Notion AI
 Docs
@@ -33780,7 +33742,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Paid plan trials
 Learn how you can trial Notion's paid plans ⏳
 What is the Business Plan trial?
 How do I know if my team is eligible?
@@ -33854,8 +33815,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Passkeys
-URL: https://www.notion.com/help/passkeys
+Explore more→
++ --- 
+### Passkeys
 Features
 Notion AI
 Docs
@@ -33892,7 +33854,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Passkeys
 Learn how to log into Notion using passkeys, a simple and secure alternative to passwords 🔑
 What are passkeys?
 Set up a passkey
@@ -34021,8 +33982,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Payment methods
-URL: https://www.notion.com/help/payment-methods
+Explore more→
++ --- 
+### Payment methods
 Features
 Notion AI
 Docs
@@ -34059,7 +34021,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Payment methods
 Here’s how to set up payment for your Notion plan 💳
 Change your payment method
 Accepted payment methods
@@ -34131,8 +34092,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### What happens when I downgrade my plan?
-URL: https://www.notion.com/help/plan-downgrade
+Explore more→
++ --- 
+### What happens when I downgrade my plan?
 Features
 Notion AI
 Docs
@@ -34169,7 +34131,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-What happens when I downgrade my plan?
 When you downgrade your Notion plan, some of the features available with your previous plan may be affected. Here’s what to expect ⬇️
 Downgrade your plan
 How downgrading impacts your Notion features
@@ -34313,8 +34274,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Privacy practices
-URL: https://www.notion.com/help/privacy
+Explore more→
++ --- 
+### Privacy practices
 Features
 Notion AI
 Docs
@@ -34351,7 +34313,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Privacy practices
 Privacy is important to us — learn about how we handle privacy at Notion 🗝️
 How we handle your data
 What is Customer Data?
@@ -34491,8 +34452,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Provision users & groups with SCIM
-URL: https://www.notion.com/help/provision-users-and-groups-with-scim
+Explore more→
++ --- 
+### Provision users & groups with SCIM
 Features
 Notion AI
 Docs
@@ -34529,7 +34491,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Provision users & groups with SCIM
 You can provision and manage users and groups in your Notion workspace with the System for Cross-domain Identity Management (SCIM) API standard 🔑
 What you can do with Notion's SCIM API
 User provisioning and management
@@ -34814,8 +34775,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Publish a Notion Site
-URL: https://www.notion.com/help/public-pages-and-web-publishing
+Explore more→
++ --- 
+### Publish a Notion Site
 Features
 Notion AI
 Docs
@@ -34852,7 +34814,6 @@ Help Center
 Reference
 Notion Sites
 ← Notion Sites
-Publish a Notion Site
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Any page you build in Notion can be turned into a beautiful Notion Site with just a click. Publish a blog, resume or portfolio, job listing, landing page — the possibilities are as wide as the web itself 🪄
 What you can do with Notion Sites
@@ -35043,8 +35004,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Record HAR files for troubleshooting
-URL: https://www.notion.com/help/record-har-files-for-troubleshooting
+Explore more→
++ --- 
+### Record HAR files for troubleshooting
 Features
 Notion AI
 Docs
@@ -35081,7 +35043,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-Record HAR files for troubleshooting
 
 Check ourstatus pageandXfor live updates on any known issues.
 HAR is an archive file format that records information about your Notion session. It might be helpful to record and share a HAR file with our support team so they can help you troubleshoot your issue.
@@ -35132,8 +35093,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Reference
-URL: https://www.notion.com/help/reference
+Explore more→
++ --- 
+### Reference
 Features
 Notion AI
 Docs
@@ -35167,7 +35129,6 @@ Templates
 Security
 Consultants
 Help Center
-Reference
 Reference
 1.Getting started
 📍Start here
@@ -35279,8 +35240,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Refunds
-URL: https://www.notion.com/help/refunds
+Explore more→
++ --- 
+### Refunds
 Features
 Notion AI
 Docs
@@ -35317,7 +35279,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Refunds
 Learn about Notion’s refund policy ↩️
 Our refund policy is simple. If you believe you've made a mistake signing up for a paid Notion subscription online or in-app, please contact us inside the app or email[email protected]. We'll be happy to refund you the full amount if youdowngrade your subscription and contact uswithin three days of the invoice being created after signing up for monthly billing, or within 30 days of the invoice creation after signing up for annual billing.
 If you were invoiced for members accidentally added to your workspace, we're happy to provide a refund of the prorated charges if you reach out within three days of the invoice date. Please make sure the additional members have been removed from your workspace before writing in.
@@ -35368,8 +35329,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Relations & rollups
-URL: https://www.notion.com/help/relations-and-rollups
+Explore more→
++ --- 
+### Relations & rollups
 Features
 Notion AI
 Docs
@@ -35406,7 +35368,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Relations & rollups
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Have you ever wanted to connect the data between two tables? You're in luck! Notion's relation property is designed to help you express useful relationships between items in different databases 🛠
 What is a database relation?
@@ -35624,8 +35585,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Reminders
-URL: https://www.notion.com/help/reminders
+Explore more→
++ --- 
+### Reminders
 Features
 Notion AI
 Docs
@@ -35662,7 +35624,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Reminders
 Notion can help remind you or other people about what’s important ‼️
 Create a reminder in a page
 Create a reminder for someone else in a page
@@ -35738,8 +35699,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Report inappropriate content
-URL: https://www.notion.com/help/report-inappropriate-content
+Explore more→
++ --- 
+### Report inappropriate content
 Features
 Notion AI
 Docs
@@ -35776,7 +35738,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Report inappropriate content
 To ensure the trust and safety of everyone who interacts with Notion public pages, we prohibit them from containing content that violates our terms of service. Anyone viewing public pages can report inappropriate content 🚨
 Our content and use policy
 How to report a page
@@ -35862,8 +35823,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Reset Notion
-URL: https://www.notion.com/help/reset-notion
+Explore more→
++ --- 
+### Reset Notion
 Features
 Notion AI
 Docs
@@ -35900,7 +35862,6 @@ Help Center
 Reference
 Troubleshooting
 ← Troubleshooting
-Reset Notion
 Reset Notion for desktop
 Reset Notion for web
 Chrome and Microsoft Edge
@@ -35989,8 +35950,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Restrictions for customers based in Russia
-URL: https://www.notion.com/help/restrictions-for-customers-based-in-russia
+Explore more→
++ --- 
+### Restrictions for customers based in Russia
 Features
 Notion AI
 Docs
@@ -36027,7 +35989,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Restrictions for customers based in Russia
 The U.S. government hasintroduced restrictionsprohibiting access to certain software products and services to any person in Russia. Due to these restrictions,on September 9, 2024, Notion will no longer provide users located in Russia access to the platform. This includes:
 Preventing users from accessing Notion’s services while in Russia.Users in workspaces that have never had billing associated with Russia will be able to regain access to Notion once outside Russia.
 Preventing users from accessing Notion’s services while in Russia.Users in workspaces that have never had billing associated with Russia will be able to regain access to Notion once outside Russia.
@@ -36087,8 +36048,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Sales tax
-URL: https://www.notion.com/help/sales-tax
+Explore more→
++ --- 
+### Sales tax
 Features
 Notion AI
 Docs
@@ -36125,7 +36087,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Sales tax
 Get more information about how taxes are applied to your Notion bill in your region 🧮
 The basics
 Tax Registration Numbers
@@ -36342,8 +36303,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### SAML SSO
-URL: https://www.notion.com/help/saml-sso-configuration
+Explore more→
++ --- 
+### SAML SSO
 Features
 Notion AI
 Docs
@@ -36380,7 +36342,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-SAML SSO
 Notion provides Single Sign-On (SSO) functionality for Business and Enterprise customers to access the app through a single authentication source. This allows IT administrators to better manage team access and keeps information more secure 🔐
 What is SAML SSO?
 Who can use SAML SSO with Notion?
@@ -36519,8 +36480,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Schedule meetings with Notion Mail
-URL: https://www.notion.com/help/schedule-meetings-with-notion-mail
+Explore more→
++ --- 
+### Schedule meetings with Notion Mail
 Features
 Notion AI
 Docs
@@ -36557,7 +36519,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Schedule meetings with Notion Mail
 With Notion Mail, scheduling time with others takes just a few clicks 📅
 Notion Mail makes it easy to share your availability as you’re coordinating meetings in your emails. To use this feature, you’ll need to connect to Notion Calendar first. You can go to Notion Calendar by clicking the calendar icon at the bottom of your Notion Mail sidebar.
 Once Notion Calendar is connected, Notion Mail will be able to see your schedule and help you schedule future events based on your availability. To schedule a meeting using Notion Mail:
@@ -36620,8 +36581,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Search in your workspace
-URL: https://www.notion.com/help/search
+Explore more→
++ --- 
+### Search in your workspace
 Features
 Notion AI
 Docs
@@ -36658,7 +36620,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Search in your workspace
 Notion is designed for you to add as many layers of information as you and your team need to solve any problem. Search ensures that Notion is an easily navigable archive of information 🔍
 Use search
 Use Command Search
@@ -36795,8 +36756,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Security practices
-URL: https://www.notion.com/help/security-and-privacy
+Explore more→
++ --- 
+### Security practices
 Features
 Notion AI
 Docs
@@ -36833,7 +36795,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Security practices
 We know you've entrusted us with valuable data, and we take its security very seriously. We've provided a deep dive into our security practices 🔒
 Data security
 Application security
@@ -37026,8 +36987,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Selling on Marketplace
-URL: https://www.notion.com/help/selling-on-marketplace
+Explore more→
++ --- 
+### Selling on Marketplace
 Features
 Notion AI
 Docs
@@ -37064,7 +37026,6 @@ Help Center
 Reference
 Marketplace
 ← Marketplace
-Selling on Marketplace
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Learn how to sell your templates in the Notion Marketplace 🧑🏼‍🎨
 Create a creator profile
@@ -37449,8 +37410,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Set up Identity Provider (IdP) for SAML SSO
-URL: https://www.notion.com/help/set-up-identity-provider-for-saml-sso
+Explore more→
++ --- 
+### Set up Identity Provider (IdP) for SAML SSO
 Features
 Notion AI
 Docs
@@ -37487,7 +37449,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Set up Identity Provider (IdP) for SAML SSO
 Here's how to set up your Identity Provider for SAML SSO in Notion 🔑
 Entra ID
 Step 1: Create a new application integration
@@ -37882,8 +37843,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Set up Identity Provider (IdP) for SCIM
-URL: https://www.notion.com/help/set-up-identity-provider-for-scim
+Explore more→
++ --- 
+### Set up Identity Provider (IdP) for SCIM
 Features
 Notion AI
 Docs
@@ -37920,7 +37882,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Set up Identity Provider (IdP) for SCIM
 Learn how to set up your Identity Provider to use SCIM in Notion 🪪
 Azure
 Step 1: Configure user provisioning in Notion
@@ -38194,8 +38155,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Share your work
-URL: https://www.notion.com/help/share-your-work
+Explore more→
++ --- 
+### Share your work
 Features
 Notion AI
 Docs
@@ -38232,7 +38194,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Share your work
 Share any Notion page you create with select people, your whole team, or the entire web. It's up to you. Here's a quick overview of how to share 🗣
 Share with one person
 Share with your team
@@ -38300,8 +38261,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Shared Responsibilities Model
-URL: https://www.notion.com/help/shared-responsibilities-model
+Explore more→
++ --- 
+### Shared Responsibilities Model
 Features
 Notion AI
 Docs
@@ -38338,7 +38300,6 @@ Help Center
 Reference
 Security & privacy
 ← Security & privacy
-Shared Responsibilities Model
 1. What is the Notion Shared Responsibilities Model?
 2. Why the Notion SRM is important
 3. Structure of Notion's SRM
@@ -38414,8 +38375,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Sharing & permissions
-URL: https://www.notion.com/help/sharing-and-permissions
+Explore more→
++ --- 
+### Sharing & permissions
 Features
 Notion AI
 Docs
@@ -38452,7 +38414,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Sharing & permissions
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion is built for collaboration, so there are many ways to share your work with other people. Our permission levels ensure that your collaborators access your content exactly the way you want them to 📣
 Ways to share
@@ -38671,8 +38632,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Integrate Slack
-URL: https://www.notion.com/help/slack
+Explore more→
++ --- 
+### Integrate Slack
 Features
 Notion AI
 Docs
@@ -38709,7 +38671,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Integrate Slack
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Bring Notion and Slack together so your team can work better from anywhere 💬
 Set up Slack integration
@@ -38933,8 +38894,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Task databases & sprints
-URL: https://www.notion.com/help/sprints
+Explore more→
++ --- 
+### Task databases & sprints
 Features
 Notion AI
 Docs
@@ -38971,7 +38933,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Task databases & sprints
 Help your team stay on track with task databases and sprints 💪
 Create a task database
 Turn a task database into a regular database
@@ -39138,8 +39099,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Start here
-URL: https://www.notion.com/help/start-here
+Explore more→
++ --- 
+### Start here
 Features
 Notion AI
 Docs
@@ -39176,7 +39138,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Start here
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Curious about what Notion is? We'll show you right here, and in the articles to come. Let's go! 📍
 We like to describe Notion as a set of building blocks for creating things you love to use on your computer, such as:
@@ -39232,8 +39193,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Start with a template
-URL: https://www.notion.com/help/start-with-a-template
+Explore more→
++ --- 
+### Start with a template
 Features
 Notion AI
 Docs
@@ -39270,7 +39232,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-Start with a template
 To help you take on a variety of challenges with Notion, we've created lots of templates that you can adopt and customize as your own — including some starter templates already in your workspace! Here's how to use them 💾
 Starter templates
 Find and use templates
@@ -39342,8 +39303,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Suggested edits
-URL: https://www.notion.com/help/suggested-edits
+Explore more→
++ --- 
+### Suggested edits
 Features
 Notion AI
 Docs
@@ -39380,7 +39342,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Suggested edits
 Collaborate with others by suggesting edits to content that you’re working on together 📝
 Suggest edits
 Respond to suggested edits
@@ -39453,8 +39414,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Synced blocks
-URL: https://www.notion.com/help/synced-blocks
+Explore more→
++ --- 
+### Synced blocks
 Features
 Notion AI
 Docs
@@ -39491,7 +39453,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Synced blocks
 Notion allows you to sync content blocks across multiple locations. With synced blocks, you can edit all these instances at the same time 🔄
 Syncing content
 Syncing content across pages
@@ -39606,8 +39567,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Synced databases
-URL: https://www.notion.com/help/synced-databases
+Explore more→
++ --- 
+### Synced databases
 Features
 Notion AI
 Docs
@@ -39644,7 +39606,6 @@ Help Center
 Reference
 Data & integrations
 ← Data & integrations
-Synced databases
 Bring your favorite tools into Notion with synced databases, to keep all of your info in one easily accessible hub 📬
 Create a synced database
 Jira
@@ -39734,8 +39695,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### System requirements for Notion
-URL: https://www.notion.com/help/system-requirements-for-notion
+Explore more→
++ --- 
+### System requirements for Notion
 Features
 Notion AI
 Docs
@@ -39772,7 +39734,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-System requirements for Notion
 See what Notion’s system requirements are for desktop, web, and mobile ⚙️
 Desktop
 Web
@@ -39853,8 +39814,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Table view
-URL: https://www.notion.com/help/tables
+Explore more→
++ --- 
+### Table view
 Features
 Notion AI
 Docs
@@ -39891,7 +39853,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Table view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 A table is the classic database view, but tables in Notion are more than just rows and columns. Each row opens up into its own page, and can contain whatever properties you want 📊
 Create a table view
@@ -40059,8 +40020,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Sub-items & dependencies
-URL: https://www.notion.com/help/tasks-and-dependencies
+Explore more→
++ --- 
+### Sub-items & dependencies
 Features
 Notion AI
 Docs
@@ -40097,7 +40059,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Sub-items & dependencies
 Use sub-items and dependencies to give depth to any workflow 🐣
 Sub-items
 Enable sub-items
@@ -40248,8 +40209,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Marketplace guidelines & terms
-URL: https://www.notion.com/help/template-gallery-guidelines-and-terms
+Explore more→
++ --- 
+### Marketplace guidelines & terms
 Features
 Notion AI
 Docs
@@ -40286,7 +40248,6 @@ Help Center
 Reference
 Marketplace
 ← Marketplace
-Marketplace guidelines & terms
 Read the terms and guidelines for using Marketplace 🖼️
 Intellectual property rights and licenses
 Inappropriate content
@@ -40466,8 +40427,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Time zones
-URL: https://www.notion.com/help/time-zones
+Explore more→
++ --- 
+### Time zones
 Features
 Notion AI
 Docs
@@ -40504,7 +40466,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Time zones
 See your schedule across different time zones and quickly travel to a new one ✈️
 Primary time zone
 Add a time zone
@@ -40588,8 +40549,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Timeline view
-URL: https://www.notion.com/help/timelines
+Explore more→
++ --- 
+### Timeline view
 Features
 Notion AI
 Docs
@@ -40626,7 +40588,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Timeline view
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 For anyone who needs to visualize their projects plotted chronologically - whether it's hours, years, or anything in between - Notion's timeline is a type of database that keeps you on task and on track ⏳
 Create a timeline
@@ -40828,8 +40789,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Transfer content from a deprovisioned user
-URL: https://www.notion.com/help/transfer-content-deprovisioned-user
+Explore more→
++ --- 
+### Transfer content from a deprovisioned user
 Features
 Notion AI
 Docs
@@ -40866,7 +40828,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Transfer content from a deprovisioned user
 This article outlines how a workspace owner can transfer content from a member who has been deprovisioned from an Enterprise Plan workspace 📖
 When can a workspace owner transfer content?
 Reassign content in Notion settings
@@ -40961,8 +40922,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Move & duplicate content
-URL: https://www.notion.com/help/transfer-content-to-another-account
+Explore more→
++ --- 
+### Move & duplicate content
 Features
 Notion AI
 Docs
@@ -40999,7 +40961,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Move & duplicate content
 If you have multiple Notion workspaces or accounts, you may want to move content from one to another. We'll show you how 📦
 Duplicate content to another workspace
 Duplicate content to another account
@@ -41097,8 +41058,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Two-step verification
-URL: https://www.notion.com/help/two-step-verification
+Explore more→
++ --- 
+### Two-step verification
 Features
 Notion AI
 Docs
@@ -41135,7 +41097,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Two-step verification
 Add an extra layer of account security with a second method of verification, also known as 2FA or MFA 🔐
 Set up two-step verification
 Using authenticator
@@ -41247,8 +41208,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Understanding block usage
-URL: https://www.notion.com/help/understanding-block-usage
+Explore more→
++ --- 
+### Understanding block usage
 Features
 Notion AI
 Docs
@@ -41285,7 +41247,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Understanding block usage
 Learn more about block usage depending on your plan and how many people are in your workspace 🟨
 What is a block?
 Block usage
@@ -41362,8 +41323,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Unique ID
-URL: https://www.notion.com/help/unique-id
+Explore more→
++ --- 
+### Unique ID
 Features
 Notion AI
 Docs
@@ -41400,7 +41362,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Unique ID
 Add an extra layer of project management by giving your tasks their own IDs 🤖
 Adding unique IDs
 Unique ID URL
@@ -41463,8 +41424,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Inbox & page notifications
-URL: https://www.notion.com/help/updates-and-notifications
+Explore more→
++ --- 
+### Inbox & page notifications
 Features
 Notion AI
 Docs
@@ -41501,7 +41463,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Inbox & page notifications
 Your inbox and notifications help you stay on top of work that needs your attention, and changes made to the pages and projects you care about. The more people you collaborate with in your workspace, the more helpful these features become 🔔
 Inbox
 Interact with your inbox
@@ -41609,8 +41570,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Change your plan
-URL: https://www.notion.com/help/upgrade-or-downgrade-your-plan
+Explore more→
++ --- 
+### Change your plan
 Features
 Notion AI
 Docs
@@ -41647,7 +41609,6 @@ Help Center
 Reference
 Plans, billing & payment
 ← Plans, billing & payment
-Change your plan
 We offer four different pricing plans for every type of user and team. Here, we'll walk through each one and what it means to upgrade or downgrade your workspace 💸
 Upgrade your plan
 Upgrade on mobile
@@ -41848,8 +41809,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Use Notion AI with Notion Mail
-URL: https://www.notion.com/help/use-notion-ai-with-notion-mail
+Explore more→
++ --- 
+### Use Notion AI with Notion Mail
 Features
 Notion AI
 Docs
@@ -41886,7 +41848,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Use Notion AI with Notion Mail
 Notion AI can help you stay organized by automatically labeling incoming emails that are important to you 🏷️
 Label emails
 Edit an existing auto label
@@ -41997,8 +41958,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Use Notion Calendar with Notion
-URL: https://www.notion.com/help/use-notion-calendar-with-notion
+Explore more→
++ --- 
+### Use Notion Calendar with Notion
 Features
 Notion AI
 Docs
@@ -42035,7 +41997,6 @@ Help Center
 Reference
 Notion Calendar
 ← Notion Calendar
-Use Notion Calendar with Notion
 Notion Calendar and Notion work together to create a seamless experience as you go from meetings to notes to projects 🪄
 How you can use Notion Calendar with Notion
 Connect Notion workspaces to Notion Calendar
@@ -42204,8 +42165,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Views, filters, sorts & groups
-URL: https://www.notion.com/help/views-filters-and-sorts
+Explore more→
++ --- 
+### Views, filters, sorts & groups
 Features
 Notion AI
 Docs
@@ -42242,7 +42204,6 @@ Help Center
 Reference
 Databases
 ← Databases
-Views, filters, sorts & groups
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 You can view the same database in multiple ways, and switch back and forth between them depending on your needs. Within a view, you can add filters and sorts to easily categorize your content 📁
 Types of database views
@@ -42450,8 +42411,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Views, groups, filters & properties
-URL: https://www.notion.com/help/views-groups-filters-and-properties
+Explore more→
++ --- 
+### Views, groups, filters & properties
 Features
 Notion AI
 Docs
@@ -42488,7 +42450,6 @@ Help Center
 Reference
 Notion Mail
 ← Notion Mail
-Views, groups, filters & properties
 Use views and custom properties to organize your emails in a meaningful way 🗄️
 Views
 Create a new view
@@ -42667,8 +42628,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Web Clipper
-URL: https://www.notion.com/help/web-clipper
+Explore more→
++ --- 
+### Web Clipper
 Features
 Notion AI
 Docs
@@ -42705,7 +42667,6 @@ Help Center
 Reference
 Notion apps
 ← Notion apps
-Web Clipper
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 The Web Clipper lets you save any web page off the internet to your workspace so you can read or edit it later. You can add this web content to a workspace or page of your choosing, making it easy to build a reading list, collect references and more ✂️
 On desktop
@@ -42840,8 +42801,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Webhook actions
-URL: https://www.notion.com/help/webhook-actions
+Explore more→
++ --- 
+### Webhook actions
 Features
 Notion AI
 Docs
@@ -42878,7 +42840,6 @@ Help Center
 Reference
 Automations
 ← Automations
-Webhook actions
 Use webhook actions in Notion’s automation features 🪝
 Who can use webhook actions?
 Send webhook
@@ -42966,8 +42927,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### What is a block?
-URL: https://www.notion.com/help/what-is-a-block
+Explore more→
++ --- 
+### What is a block?
 Features
 Notion AI
 Docs
@@ -43004,7 +42966,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-What is a block?
 Think of Notion as a bottomless bin of building blocks. Build whatever you want, however you want! Every page you create in Notion will be composed of many "blocks," in the same way a LEGO castle is composed of many LEGO bricks 🧱
 Everything in Notion is a "block"
 Blocks can transform
@@ -43061,8 +43022,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### What is a database?
-URL: https://www.notion.com/help/what-is-a-database
+Explore more→
++ --- 
+### What is a database?
 Features
 Notion AI
 Docs
@@ -43099,7 +43061,6 @@ Help Center
 Reference
 Getting started
 ← Getting started
-What is a database?
 Databases are a core feature in Notion that help you manage and organize your pages. Let's explain what they are and how they can help you level up your workspace 🗄
 Databases are collections of pages
 Databases are pages themselves
@@ -43154,8 +43115,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Who’s who in a workspace
-URL: https://www.notion.com/help/whos-who-in-a-workspace
+Explore more→
++ --- 
+### Who’s who in a workspace
 Features
 Notion AI
 Docs
@@ -43192,7 +43154,6 @@ Help Center
 Reference
 Sharing & collaboration
 ← Sharing & collaboration
-Who’s who in a workspace
 Learn about the different kinds of people in a workspace 👥
 Members
 Guests
@@ -43333,8 +43294,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Wikis & verified pages
-URL: https://www.notion.com/help/wikis-and-verified-pages
+Explore more→
++ --- 
+### Wikis & verified pages
 Features
 Notion AI
 Docs
@@ -43371,7 +43333,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Wikis & verified pages
 Use wikis and verified pages to maintain important information more easily ✅
 Wikis
 Create a wiki
@@ -43522,8 +43483,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Workspace analytics
-URL: https://www.notion.com/help/workspace-analytics
+Explore more→
++ --- 
+### Workspace analytics
 Features
 Notion AI
 Docs
@@ -43560,7 +43522,6 @@ Help Center
 Reference
 Workspace administration
 ← Workspace administration
-Workspace analytics
 Learn how your organization is interacting with content on your workspace 🗃
 Accessing workspace analytics
 Member engagement
@@ -43659,8 +43620,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Workspace settings
-URL: https://www.notion.com/help/workspace-settings
+Explore more→
++ --- 
+### Workspace settings
 Features
 Notion AI
 Docs
@@ -43697,7 +43659,6 @@ Help Center
 Reference
 Settings
 ← Settings
-Workspace settings
 When you sign up for Notion, you can create multiple workspaces connected to your account. Each one can be customized to your liking with workspace-specific settings. Here's how to manage every aspect of an individual workspace 🗝️
 Change your workspace name and icon
 Allowed email domains
@@ -43919,8 +43880,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Workspaces on mobile
-URL: https://www.notion.com/help/workspaces-on-mobile
+Explore more→
++ --- 
+### Workspaces on mobile
 Features
 Notion AI
 Docs
@@ -43957,7 +43919,6 @@ Help Center
 Reference
 Workspace & sidebar
 ← Workspace & sidebar
-Workspaces on mobile
 Here's a quick tour of how Notion workspaces look and operate on your phone or tablet 📱
 Navigating Notion for mobile
 Teamspaces
@@ -44110,8 +44071,9 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---### Intro to writing & editing
-URL: https://www.notion.com/help/writing-and-editing-basics
+Explore more→
++ --- 
+### Intro to writing & editing
 Features
 Notion AI
 Docs
@@ -44148,7 +44110,6 @@ Help Center
 Reference
 Pages & blocks
 ← Pages & blocks
-Intro to writing & editing
 Uh-oh! It looks like your ad blocker is preventing the video from playing.
 Notion is first and foremost a writing tool. It works as simply as any word processor, only you can add many different types of content to a page, and move it around and modify it in new ways ✏️
 Editing tools
@@ -44459,4 +44420,5 @@ Notion for
 Enterprise
 Small business
 Personal
-Explore more→---
+Explore more→
++ --- 

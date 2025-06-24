@@ -26,7 +26,7 @@ for i, url in enumerate(sorted(links)):
     title = soup_i.find("h1").text.strip() if soup_i.find("h1") else "Untitled"
     content_block = soup_i.find_all(["h2", "h3", "p", "li"])
     content_cleaned = {text for text in content_block if len(text) > 40}
-    content_text = "\n".join([block.get_text(strip=True) for block in content_block])
+    content_text = "\n".join([block.get_text(strip=True) for block in content_cleaned])
 
     articles.append({
         "url": url,
