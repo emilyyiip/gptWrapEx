@@ -1,0 +1,348 @@
+Features
+Notion AI
+Docs
+Wikis
+Projects
+Enterprise Search
+Forms
+Sites
+Get started
+Browse marketplace
+View integrations
+Download web clipper
+Teams
+Eng & Product
+Design
+Marketing
+IT
+Team size
+Startups
+SMBs
+Enterprise
+Education
+Learn
+Help center
+Customer stories
+Blog
+Community
+Build
+API
+Templates
+Security
+Consultants
+Help Center
+Reference
+Pages & blocks
+← Pages & blocks
+Intro to writing & editing
+Uh-oh! It looks like your ad blocker is preventing the video from playing.
+Notion is first and foremost a writing tool. It works as simply as any word processor, only you can add many different types of content to a page, and move it around and modify it in new ways ✏️
+Editing tools
+Types of content
+Basic blocks
+Database
+Media
+Embeds
+Advanced blocks
+Inline options
+Spell check
+Style your writing
+Arrange and modify content
+Select content
+Drag-and-drop
+Markdown and shortcuts
+Collaborative content
+On mobile
+Editing tools
+There are three tools to familiarize yourself with in order to create any page you want.
++icon:Appears in the left margin whenever you hover over a new line. Click it to open a menu of content types you can add to your page.
++icon:Appears in the left margin whenever you hover over a new line. Click it to open a menu of content types you can add to your page.
+⋮⋮icon:This appears in the left margin whenever you hover over a new line or content block. Click and drag to move a block. Or click it to open a menu of actions. For example:Turn into: Transforms the block into another type of block (like a bullet into a checkbox, or plain text into a heading), or into a page.Color: Only appears for certain types of blocks to turn them into a different color or give them a background color — like text, files, and web bookmarks.Copy link to block: Copies the anchor link to this particular block.Duplicate: Makes an exact copy of the content block.Move to: Moves the block to another page in your workspace.Delete: Deletes the block.Comment: Lets you add a comment to the block.Suggest edits: Lets you make a suggestion on the block.Ask AI: Lets you ask Notion AI anything, or take actions on your block using Notion AI.
+⋮⋮icon:This appears in the left margin whenever you hover over a new line or content block. Click and drag to move a block. Or click it to open a menu of actions. For example:
+Turn into: Transforms the block into another type of block (like a bullet into a checkbox, or plain text into a heading), or into a page.
+Turn into: Transforms the block into another type of block (like a bullet into a checkbox, or plain text into a heading), or into a page.
+Color: Only appears for certain types of blocks to turn them into a different color or give them a background color — like text, files, and web bookmarks.
+Color: Only appears for certain types of blocks to turn them into a different color or give them a background color — like text, files, and web bookmarks.
+Copy link to block: Copies the anchor link to this particular block.
+Copy link to block: Copies the anchor link to this particular block.
+Duplicate: Makes an exact copy of the content block.
+Duplicate: Makes an exact copy of the content block.
+Move to: Moves the block to another page in your workspace.
+Move to: Moves the block to another page in your workspace.
+Delete: Deletes the block.
+Delete: Deletes the block.
+Comment: Lets you add a comment to the block.
+Comment: Lets you add a comment to the block.
+Suggest edits: Lets you make a suggestion on the block.
+Suggest edits: Lets you make a suggestion on the block.
+Ask AI: Lets you ask Notion AI anything, or take actions on your block using Notion AI.
+Ask AI: Lets you ask Notion AI anything, or take actions on your block using Notion AI.
+/menu and commands:The easiest way to both add content to your page or apply any of the actions above (essentially a shortcut for the same functionality of the+and⋮⋮menus).Type/followed by any type of block to add it. Examples:/bulletor/heading.Type/followed by any action to apply it to the block. Examples:/deleteor/duplicate.Type/followed by the name of any color to change the color of the block. Like/red.Typing/will bring up a menu ofblock types— all of your options for the type of content you can create in Notion. As you experiment with block types, you’ll find a combination of your most used and your recently used blocks at the top of the menu for quick and easy access.
+/menu and commands:The easiest way to both add content to your page or apply any of the actions above (essentially a shortcut for the same functionality of the+and⋮⋮menus).
+Type/followed by any type of block to add it. Examples:/bulletor/heading.
+Type/followed by any type of block to add it. Examples:/bulletor/heading.
+Type/followed by any action to apply it to the block. Examples:/deleteor/duplicate.
+Type/followed by any action to apply it to the block. Examples:/deleteor/duplicate.
+Type/followed by the name of any color to change the color of the block. Like/red.
+Type/followed by the name of any color to change the color of the block. Like/red.
+Typing/will bring up a menu ofblock types— all of your options for the type of content you can create in Notion. As you experiment with block types, you’ll find a combination of your most used and your recently used blocks at the top of the menu for quick and easy access.
+Typing/will bring up a menu ofblock types— all of your options for the type of content you can create in Notion. As you experiment with block types, you’ll find a combination of your most used and your recently used blocks at the top of the menu for quick and easy access.
+Types of content
+There are many different types of content blocks you can add to Notion, from bullet points to images to embeds to math equations. Here's a full list of content types, split into the same categories you'll find in our block menu (which can be opened with/or+).
+Basic blocks
+Text: Just your regular old plain text!
+Text: Just your regular old plain text!
+Page: Adds a sub-page inside your page. You can put pages inside pages inside pages.
+Page: Adds a sub-page inside your page. You can put pages inside pages inside pages.
+To-do list: Checkboxes for tasks and such. Shortcut[].
+To-do list: Checkboxes for tasks and such. Shortcut[].
+Heading 1: The largest heading, can be easily added with shortcut/h1.
+Heading 1: The largest heading, can be easily added with shortcut/h1.
+Heading 2: The medium-sized heading, can be easily added with shortcut/h2.
+Heading 2: The medium-sized heading, can be easily added with shortcut/h2.
+Heading 3: The smallest heading, can be easily added with shortcut/h3.
+Heading 3: The smallest heading, can be easily added with shortcut/h3.
+Table:Creates a simple set of columns and rows.
+Table:Creates a simple set of columns and rows.
+Bulleted list: Bullets. Shortcut-+space.
+Bulleted list: Bullets. Shortcut-+space.
+Numbered list: Indents your list and automatically generates the next number.
+Numbered list: Indents your list and automatically generates the next number.
+Toggle list: Creates a toggle that can contain other content, and can be opened or closed. You can create a toggle using the shortcut>+space. At this time, you’ll need to open and close toggles manually — there’s no way to open and close them all at once, or make them open or closed by default.
+Toggle list: Creates a toggle that can contain other content, and can be opened or closed. You can create a toggle using the shortcut>+space. At this time, you’ll need to open and close toggles manually — there’s no way to open and close them all at once, or make them open or closed by default.
+Quote: Creates larger text to break quotes out from the rest of your document.
+Quote: Creates larger text to break quotes out from the rest of your document.
+Divider: Creates a thin gray line to break up text. Shortcut---.
+Divider: Creates a thin gray line to break up text. Shortcut---.
+Link to page: Creates a block that's a link to another page in your workspace.
+Link to page: Creates a block that's a link to another page in your workspace.
+Callout: Creates boxed text for tips, warnings, disclaimers, etc. With emoji!
+Callout: Creates boxed text for tips, warnings, disclaimers, etc. With emoji!
+Database
+Add a database inline in the body of a Notion page. A great way to create a page that includes both writing and databases.Learn more about databases here →
+Table view: Adds a table on your page.
+Table view: Adds a table on your page.
+Board view: Adds a kanban board on your page.
+Board view: Adds a kanban board on your page.
+Gallery view: Adds a gallery on your page.
+Gallery view: Adds a gallery on your page.
+List view: Adds a list more minimal than a table to your page.
+List view: Adds a list more minimal than a table to your page.
+Calendar view: Adds a calendar on your page.
+Calendar view: Adds a calendar on your page.
+Media
+There are several types of media you can add, view, and play (audio/video) right in Notion.
+Image: Upload images or add images on your page.
+Image: Upload images or add images on your page.
+Video: Upload your own file or embed from YouTube, Vimeo, etc.
+Video: Upload your own file or embed from YouTube, Vimeo, etc.
+Audio: Upload your own recording or embed from Spotify, Soundcloud, etc.
+Audio: Upload your own recording or embed from Spotify, Soundcloud, etc.
+File: Upload any sort of file to a page to store it exactly where you want it.
+File: Upload any sort of file to a page to store it exactly where you want it.
+Code: Add a block of code in any language, complete with formatting.
+Code: Add a block of code in any language, complete with formatting.
+Web bookmark: Add a clickable link preview of a URL to your page.
+Web bookmark: Add a clickable link preview of a URL to your page.
+Embeds
+You can embed content from 500+ apps directly into Notion. We created shortcuts for a few of the most popular apps, but/embedworks for nearly any other. Here are our named embeds:
+Google Drive: Pull together Google Docs, Sheets, Slides, etc. right in your Notion page.
+Google Drive: Pull together Google Docs, Sheets, Slides, etc. right in your Notion page.
+Tweet: Adds interactive/clickable tweets into your page (/tweet+enterfor example).
+Tweet: Adds interactive/clickable tweets into your page (/tweet+enterfor example).
+GitHub Gist: Embeds code, notes and snippets from Github.
+GitHub Gist: Embeds code, notes and snippets from Github.
+Google Maps: Embeds an interactive Google Map in your page.
+Google Maps: Embeds an interactive Google Map in your page.
+Framer: Embed a prototype from Framer into your page.
+Framer: Embed a prototype from Framer into your page.
+Invision: Embed a project from Invision.
+Invision: Embed a project from Invision.
+PDF: You can either paste a link to a PDF or upload one to display it in full on your page.
+PDF: You can either paste a link to a PDF or upload one to display it in full on your page.
+Figma: Embed a Figma file so it appears in your page.
+Figma: Embed a Figma file so it appears in your page.
+Loom: Embed a playable Loom recording in your page.
+Loom: Embed a playable Loom recording in your page.
+Typeform: Embed a survey that people can complete entirely in Notion.
+Typeform: Embed a survey that people can complete entirely in Notion.
+CodePen: Embed code snippets from CodePen on your page.
+CodePen: Embed code snippets from CodePen on your page.
+Whimsical: Embed mind maps, flowcharts, wireframes, and sticky notes from Whimsical.
+Whimsical: Embed mind maps, flowcharts, wireframes, and sticky notes from Whimsical.
+Type/followed by the name of any embed to add it. All of these will prompt you to input the URL for the embed you want.
+Advanced blocks
+Inline equation: Displays beautifully formatted mathematical characters and expressions.
+Inline equation: Displays beautifully formatted mathematical characters and expressions.
+Button: Lets you automate specific actions with one click. Learn morehere →
+Button: Lets you automate specific actions with one click. Learn morehere →
+Breadcrumb: Inserts an automatically generated breadcrumb menu that shows where the page you add it to lives in your workspace.
+Breadcrumb: Inserts an automatically generated breadcrumb menu that shows where the page you add it to lives in your workspace.
+Table of contents: Adds a list of links to all the headings on your page.
+Table of contents: Adds a list of links to all the headings on your page.
+Inline options
+The content menu includes a few options that aren't technically blocks. Instead, they're/commands that will add several other types of content to your page. For dates or mentions, you can also@.
+Mention a person: Gets the attention of someone else in your workspace.
+Mention a person: Gets the attention of someone else in your workspace.
+Mention a page: Creates an inline link to another page in your workspace.
+Mention a page: Creates an inline link to another page in your workspace.
+Date or reminder: Creates a dynamic timestamp or reminder that will trigger a notification.
+Date or reminder: Creates a dynamic timestamp or reminder that will trigger a notification.
+Emoji: Brings up the emoji picker. You can also select+in the emoji picker to upload acustom emoji.
+Emoji: Brings up the emoji picker. You can also select+in the emoji picker to upload acustom emoji.
+Spell check
+When you use Notion for web, your spelling will be checked by your browser’s spell check, and you’ll have to enable or disable spell check in your browser settings.
+Notion for desktop has a built-in spell check that’s on by default. To turn this off:
+Right-click a typo in a page.
+Right-click a typo in a page.
+In the menu that appears, selectDisable spell check.
+In the menu that appears, selectDisable spell check.
+To turn spell check on in Notion for desktop:
+Right-click a word on any page.
+Right-click a word on any page.
+In the menu that appears, selectEnable spell check.
+In the menu that appears, selectEnable spell check.
+Style your writing
+Here are the basics for styling your writing in Notion.Learn more about styling and customization here →
+Notion is equipped with all the text styling features you've come to expect from any word processor — with a few more added in. Highlight any text to see the editing menu:
+Notion is equipped with all the text styling features you've come to expect from any word processor — with a few more added in. Highlight any text to see the editing menu:
+Choose from three different typography styles for every page you produce — selected to match most writing moods! Just click•••at the upper right of your page and pickDefault,Serif, orMono.
+Choose from three different typography styles for every page you produce — selected to match most writing moods! Just click•••at the upper right of your page and pickDefault,Serif, orMono.
+To change text size, go to•••and switch onSmall text.
+To change text size, go to•••and switch onSmall text.
+You can shrink the margins on any page and widen your content area by going to•••at the top right of your Notion window and toggling onFull width.
+You can shrink the margins on any page and widen your content area by going to•••at the top right of your Notion window and toggling onFull width.
+Arrange and modify content
+Here are the basics for moving and structuring content around your page.
+Select content
+Click and drag from the left or right page margin to select an entire block of content, or multiple blocks at a time.
+Click and drag from the left or right page margin to select an entire block of content, or multiple blocks at a time.
+Click and drag fromwithina block to select, cut, copy, and paste paste partial text across paragraphs, bullet lists, callouts  and more — without having to select each block in its entirety.
+Click and drag fromwithina block to select, cut, copy, and paste paste partial text across paragraphs, bullet lists, callouts  and more — without having to select each block in its entirety.
+If you're in editing mode within a block, pressEscto select the entire block.
+If you're in editing mode within a block, pressEscto select the entire block.
+
+Partial text selection across blocks will be supported on all platforms except Firefox. We’re actively working with the Mozilla team to enable this feature in Firefox as soon as possible.
+Drag-and-drop
+Any content block in Notion (including lines of text) can be dragged and dropped around the page. This includes rows in tables and cards in boards and galleries!
+Hover over any block and use the⋮⋮icon that appears as a handle to drag it around.
+Hover over any block and use the⋮⋮icon that appears as a handle to drag it around.
+Blue guides will appear to show you where it will go. (A good way to nest bullets and to-do's.)
+Blue guides will appear to show you where it will go. (A good way to nest bullets and to-do's.)
+Release your mouse to drop the block, table row, or card wherever you want it to go.
+Release your mouse to drop the block, table row, or card wherever you want it to go.
+Drag-and-drop also works in your sidebar to reorder pages, nest pages inside pages, and move them between sections.
+Drag-and-drop also works in your sidebar to reorder pages, nest pages inside pages, and move them between sections.
+Markdown and shortcuts
+Notion supports many Markdown shortcuts.Learn more about keyboard shortcuts here →
+While typing:
+Type**on both sides of your text tobold.
+Type**on both sides of your text tobold.
+Type*on both sides of your text toitalicize.
+Type*on both sides of your text toitalicize.
+Type`on both sides of your text to createinline code. (That's the symbol to the left of your 1 key.)
+Type`on both sides of your text to createinline code. (That's the symbol to the left of your 1 key.)
+Type~on both sides of your text to strikethrough.
+Type~on both sides of your text to strikethrough.
+At the beginning of any line of text, try these shortcuts:
+Type*,-, or+followed byspaceto create a bulleted list.
+Type*,-, or+followed byspaceto create a bulleted list.
+Type[]to create a to-do checkbox. (There's nospacein between.)
+Type[]to create a to-do checkbox. (There's nospacein between.)
+Type1.,a., ori.followed byspaceto create a numbered list.
+Type1.,a., ori.followed byspaceto create a numbered list.
+Type#followed byspaceto create an H1 heading.
+Type#followed byspaceto create an H1 heading.
+Type##followed byspaceto create an H2 sub-heading.
+Type##followed byspaceto create an H2 sub-heading.
+Type###followed byspaceto create an H3 sub-heading.
+Type###followed byspaceto create an H3 sub-heading.
+Type>followed byspaceto create a toggle list.
+Type>followed byspaceto create a toggle list.
+Type"followed byspaceto create a quote block.
+Type"followed byspaceto create a quote block.
+Collaborative content
+There are a couple of tools you can use while writing and editing that help with teamwork.
+@-mention a person:Type@followed by one of your teammate's names to draw their attention to something on your page. You can do this inline in text or in a discussion or comment. The person will be notified to look at that part of your page.
+@-mention a person:Type@followed by one of your teammate's names to draw their attention to something on your page. You can do this inline in text or in a discussion or comment. The person will be notified to look at that part of your page.
+Add a comment:You can add a comment to specific text by highlighting it and hitting the💬button or using the shortcutcmd/ctrl+shift+m.
+Add a comment:You can add a comment to specific text by highlighting it and hitting the💬button or using the shortcutcmd/ctrl+shift+m.
+On mobile
+The editing experience is pretty different on mobile than it is on desktop. There are no/commands. And no icons that appear on hover. Instead, all content is created from the editing toolbar located above your keyboard:
+Double tap to select text, and drag your selection to include content across multiple blocks.
+Double tap to select text, and drag your selection to include content across multiple blocks.
+Tap the+to see a full menu of other content block types you can add to your page.
+Tap the+to see a full menu of other content block types you can add to your page.
+From this toolbar, you can also:@-tag a person or pageAdd a commentInsert an imageDelete contentIndent or un-indentSelect text color and highlightDelete and duplicate a block.Copy a link to a block (under•••).
+From this toolbar, you can also:
+@-tag a person or page
+@-tag a person or page
+Add a comment
+Add a comment
+Insert an image
+Insert an image
+Delete content
+Delete content
+Indent or un-indent
+Indent or un-indent
+Select text color and highlight
+Select text color and highlight
+Delete and duplicate a block.
+Delete and duplicate a block.
+Copy a link to a block (under•••).
+Copy a link to a block (under•••).
+Other editing options are located in the•••menu at the top right:
+Style:Choose from three different typography choices to format your page.
+Style:Choose from three different typography choices to format your page.
+Undo/Redo:Take back your last action on a page, or reinstate it.
+Undo/Redo:Take back your last action on a page, or reinstate it.
+
+FAQs
+Can I make Full width my default? Is there a way to set a default style for all pages?
+Not yet, but a lot of users have asked for this! We're continuing to keep this in mind for future projects.
+Can I justify text to be center aligned or right aligned?
+Notion doesn't have any traditional alignment options at the moment, unfortunately 😕But you can still make this happen. Drag and drop an empty line into the column next to your text to align it to the right or left.
+Is there a way to disable the menu that appears every time I type /?
+There's no way to turn this off by default for now, but you can pressescas soon as it pops up in order to dismiss it.
+How can I copy text from multiple blocks?
+On desktop, click and drag from the left or right page margin to select an entire block of content, or multiple blocks at a time. Click & drag fromwithina block to select, cut, copy & paste partial text across paragraphs, bullet lists, callouts & more — without having to select each block in its entirety.
+On mobile, double tap to select text, and drag your selection to include content across multiple blocks.
+
+Was this resource helpful?
+Format your page
+Notion is designed to get thoughts out of your head and onto the page. Once they're there, you can rearrange, organize, and structure them to think and write more clearly 📐
+
+
+
+
+
+
+Company
+Company
+About us
+Careers
+Security
+Status
+Terms & privacy
+Your privacy rights
+Download
+Download
+iOS & Android
+Mac & Windows
+Calendar
+Web Clipper
+Resources
+Resources
+Help center
+Pricing
+Blog
+Community
+Integrations
+Templates
+Affiliates
+Notion for
+Notion for
+Enterprise
+Small business
+Personal
+Explore more→
